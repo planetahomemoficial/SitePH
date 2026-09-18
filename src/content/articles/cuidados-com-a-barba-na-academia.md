@@ -3,7 +3,7 @@ title: "Cuidados com a Barba na Academia: Dicas para Manter o Estilo Mesmo Suand
 category: "Estilo Masculino"
 categorySlug: "estilo-masculino"
 excerpt: "Cuidados com a barba na academia são essenciais para um visual impecável. Veja dicas práticas para mantê-la sempre em dia!"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-57.jpg"
+image: "/img/capas/barba-academia-hero.png"
 date: 2025-04-26
 author: "Planeta Homem"
 ---
