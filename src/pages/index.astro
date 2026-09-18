@@ -35,19 +35,38 @@ const sectionsWithArticles = sections
   })
   .filter((s) => s.hero);
 
-const featured = sorted[0];
+const heroSlides = sorted.slice(0, 4);
 ---
 <BaseLayout title="Planeta Homem — Teste de Layout">
 
-  <!-- HERO -->
+  <!-- HERO (rotaciona entre os 4 artigos mais recentes) -->
   <section class="hero">
     <div class="wrap">
-      <div class="hero-banner" style={`background-image:url('${featured.data.image}')`}>
-        <div class="hero-caption">
-          <span class="tag">{featured.data.category}</span>
-          <h1><a href={`/artigos/${featured.id}/`}>{featured.data.title}</a></h1>
-          <p class="byline">por {featured.data.author}</p>
-        </div>
+      <div class="hero-banner" id="hero-carousel">
+        {heroSlides.map((article, i) => (
+          <div
+            class={`hero-slide${i === 0 ? " is-active" : ""}`}
+            style={`background-image:url('${article.data.image}')`}
+            data-index={i}
+          >
+            <div class="hero-caption">
+              <span class="tag">{article.data.category}</span>
+              <h1><a href={`/artigos/${article.id}/`}>{article.data.title}</a></h1>
+              <p class="byline">por {article.data.author}</p>
+            </div>
+          </div>
+        ))}
+        {heroSlides.length > 1 && (
+          <div class="hero-dots">
+            {heroSlides.map((_, i) => (
+              <button
+                class={`hero-dot${i === 0 ? " is-active" : ""}`}
+                data-index={i}
+                aria-label={`Ver destaque ${i + 1}`}
+              />
+            ))}
+          </div>
+        )}
       </div>
     </div>
   </section>
