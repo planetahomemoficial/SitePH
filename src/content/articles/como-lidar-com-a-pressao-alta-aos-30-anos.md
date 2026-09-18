@@ -112,14 +112,6 @@ Aqui estão algumas estratégias que você pode implementar para melhorar sua al
 
 Prestando atenção à alimentação e fazendo escolhas inteligentes, você pode não apenas manter sua pressão arterial sob controle, mas também promover um coração saudável e funcional por muitos anos.
 
-![G-Tech BSP11 Aparelho de Pressão Digital Automático de Braço](https://planetahomem.com.br/wp-content/uploads/2025/04/G-Tech-BSP11-Aparelho-de-Pressao-Digital-Automatico-de-Braco22-36cm.jpg)
-
-**Monitore sua saúde com o G-Tech BSP11**
-
-Aparelho de pressão digital automático de braço (22–36cm), confiável e fácil de usar no dia a dia.
-
-[Ver preço na Amazon](https://amzn.to/3RuaojJ)
-
 ## Exercícios e sua relação com a pressão arterial
 
 Os **exercícios** são um dos principais aliados na luta contra a pressão alta. A prática regular de atividades físicas não apenas melhora a saúde geral, mas também desempenha um papel vital na manutenção da pressão arterial em níveis saudáveis. Vamos entender como isso acontece e quais tipos de exercícios são mais eficazes.

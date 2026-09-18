@@ -102,16 +102,6 @@ A vida é preciosa, e cada homem deve honrar seu corpo e mente, buscando sempre 
 
 Explore nosso blog para mais insights e dicas sobre como cuidar de si como homem. Este é o seu momento para buscar propósito e viver de maneira plena.
 
-![Night Calm Complex – Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1.jpg)
-
-**Night Calm Complex – Biogens: sono leve, mente tranquila**
-
-Suplemento natural com melatonina em gotas, ideal para melhorar o sono e combater o estresse de forma leve e eficaz.
-
-[Ver preço na Amazon](https://amzn.to/4jjHEGA)
-
-[🔍 Ver review completo do Night Calm Complex](https://planetahomem.com.br/night-calm-melatonina-gotas/)
-
 ## FAQ – Perguntas comuns sobre a insônia masculina
 
 ### Quais são os principais sinais de que eu estou sofrendo de insônia?

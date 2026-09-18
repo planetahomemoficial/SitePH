@@ -64,8 +64,6 @@ Com um preço de R$ 1.209, o Xiaomi Redmi Note 14 se posiciona como uma opção 
 
 A Amazon oferece diversas formas de pagamento, incluindo cartões de crédito, débito e até parcelas, permitindo que você escolha a melhor opção que se encaixa no seu orçamento.
 
-![Xiaomi Redmi Note 14 Midnight Black](https://planetahomem.com.br/wp-content/uploads/2025/04/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM.jpg)
-
 **Redmi Note 14 – 256GB de potência!**
 
 Design sofisticado, alto desempenho e muito espaço para tudo o que você precisa.

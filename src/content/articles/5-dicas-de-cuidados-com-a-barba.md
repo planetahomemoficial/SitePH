@@ -68,22 +68,6 @@ Um exemplo prático é o de Lucas, que sempre teve dificuldades em manter a barb
 
 Incorporar essas dicas na sua rotina pode facilitar o processo de cuidados com a barba. O resultado será visivelmente positivo, não apenas esteticamente, mas também em como você se sente ao olhá-la no espelho.
 
-![King C Gillette Kit Shampoo e Sérum para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
-
-Kit Shampoo + Sérum
-
-[Comprar na Amazon](https://amzn.to/3YCdiH1)
-
-[🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-kit-shampoo-serum-barba/)
-
-![KING C. GILLETTE Bálsamo para Barba 75ml](https://planetahomem.com.br/wp-content/uploads/2025/04/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
-
-Bálsamo para Barba
-
-[Comprar na Amazon](https://amzn.to/42dUpwu)
-
-[🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-balsamo-barba/)
-
 ## Erros comuns nos cuidados com a barba que você deve evitar
 
 Cuidar da barba é uma tarefa que exige atenção, mas muitos homens cometem erros que podem prejudicar o aspecto e a saúde dos fios. Esses deslizes podem parecer pequenos, mas têm um grande impacto no resultado final. Evitar esses erros é essencial para garantir um visual bem tratado e atraente.
@@ -113,22 +97,6 @@ João, um pai de família com um estilo de vida agitado, decidiu que precisava e
 - **Finalize com a tesoura:** Use uma tesoura para aparar os fios que ficam mais longos e para dar um acabamento mais preciso às bordas.
 
 Com essas dicas, você pode garantir um aparo de qualidade no conforto da sua casa. A prática leva à perfeição, então não hesite em experimentar e ajustá-las conforme necessário para descobrir o que funciona melhor para você.
-
-![King C Gillette Kit Shampoo e Sérum para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
-
-Kit Shampoo + Sérum
-
-[Comprar na Amazon](https://amzn.to/3YCdiH1)
-
-[🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-kit-shampoo-serum-barba/)
-
-![KING C. GILLETTE Bálsamo para Barba 75ml](https://planetahomem.com.br/wp-content/uploads/2025/04/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
-
-Bálsamo para Barba
-
-[Comprar na Amazon](https://amzn.to/42dUpwu)
-
-[🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-balsamo-barba/)
 
 ## Produtos essenciais para cuidados com a barba
 

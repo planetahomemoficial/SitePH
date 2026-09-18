@@ -69,14 +69,6 @@ Ao utilizar a Night Calm Melatonina regularmente, o usuário pode esperar uma me
 
 É importante ressaltar que os resultados podem variar de pessoa para pessoa, dependendo de fatores como a rotina de sono, a alimentação e a predisposição individual. Portanto, é sempre bom acompanhar as reações do corpo durante o uso do suplemento.
 
-![Night Calm Complex – Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1.jpg)
-
-**Durma melhor com Night Calm Complex – Biogens**
-
-Suplemento natural que auxilia no relaxamento e qualidade do sono. Ideal para noites tranquilas e dias mais produtivos.
-
-[Ver preço na Amazon](https://amzn.to/4jjHEGA)
-
 ## Pros e Contras
 
 | Prós | Contras |
@@ -133,11 +125,3 @@ No geral, a Night Calm Melatonina em gotas sublingual da Biogens tem se mostrado
 É fundamental lembrar que resultados podem variar de pessoa para pessoa, por isso é recomendado realizar um teste com o produto para ver como seu corpo reage. Se você está em busca de uma opção acessível e fácil de usar para potencializar suas noites de sono, a Night Calm pode ser a escolha certa. Confira o preço e considere experimentar esse produto que promete transformar suas noites!
 
 **Meta Descrição:** Descubra a Night Calm Melatonina em gotas sublingual da Biogens, uma solução natural para melhorar a qualidade do sono, com sabor de maracujá.
-
-![Night Calm Complex – Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1.jpg)
-
-**Durma melhor com Night Calm Complex – Biogens**
-
-Suplemento natural que auxilia no relaxamento e qualidade do sono. Ideal para noites tranquilas e dias mais produtivos.
-
-[Ver preço na Amazon](https://amzn.to/4jjHEGA)

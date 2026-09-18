@@ -153,14 +153,6 @@ Integrar o **treino de calistenia** à sua vida não é apenas sobre ganhar for�
 
 Visite outras seções do nosso blog para ampliar seu conhecimento, busque propósito em suas ações diárias e cuide de si mesmo como o homem que você é. A jornada de mudança começa com o primeiro passo; faça essa escolha agora.
 
-![Kit Halteres 6 em 1 Peso Musculação até 20kg Ajustável Preto](https://planetahomem.com.br/wp-content/uploads/2025/04/Kit-Halteres-6-em-1-Peso-Musculacao-ate-20kg-Ajustavel-Preto.jpg)
-
-**Kit Halteres 6 em 1 – Ajuste o peso, evolua nos treinos**
-
-Musculação em casa com praticidade: até 20kg ajustáveis, barras inclusas e várias combinações de treino. Ideal para iniciantes e avançados.
-
-[Ver preço na Amazon](https://amzn.to/4jsYqSr)
-
 ## FAQ – Perguntas comuns sobre o treino de calistenia
 
 ### Posso começar a treinar calistenia se eu sou iniciante em exercícios físicos?

@@ -69,14 +69,6 @@ A tela do Poco C75 é grande e proporciona uma ótima experiência de visualiza�
 
 Ao comprar o Xiaomi Poco C75 na Amazon, os consumidores têm acesso a uma variedade de meios de pagamento. A plataforma aceita cartões de crédito e débito das principais bandeiras, como Visa, MasterCard, Elo e American Express. Além disso, a Amazon também oferece opções de pagamento por meio de boleto bancário e vale-presente. Esse leque de opções facilita a compra, garantindo que cada usuário encontre uma forma que se adeque às suas necessidades.
 
-![Xiaomi Poco C75 NFC Black](https://planetahomem.com.br/wp-content/uploads/2025/04/Smartphone-Xiaomi-Poco-C75-NFC-Black-Preto-8GB-RAM-256GB-ROM-1.jpg)
-
-**Xiaomi Poco C75 NFC – Potência, tecnologia e ótimo custo-benefício**
-
-Com 8GB de RAM, 256GB de armazenamento e conectividade NFC, o Poco C75 entrega desempenho rápido, tela vibrante e muito espaço para tudo que você precisa.
-
-[Ver preço na Amazon](https://amzn.to/3EcjTRy)
-
 ## FAQ – Dúvidas Comuns
 
 ### Qual a duração da bateria do Xiaomi Poco C75?

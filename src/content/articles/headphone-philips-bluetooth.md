@@ -77,14 +77,6 @@ Além disso, o modelo dobrável é uma característica prática para quem precis
 | 15 horas de bateria | Poderia ter um tempo de carregamento mais rápido |
 | Conexão Bluetooth estável | Alto-falantes externos não são isolados |
 
-![Headphone Philips Bluetooth On-Ear Preto](https://planetahomem.com.br/wp-content/uploads/2025/04/Headphone-Philips-bluetooth-on-ear-com-microfone-e-energia-para-15-horas-na-cor-preto.jpg)
-
-**Headphone Philips Bluetooth: conforto e som por até 15h!**
-
-Com microfone embutido, som de qualidade e bateria para o dia inteiro, o headphone on-ear da Philips é ideal para trabalho, estudos ou lazer.
-
-[Ver preço na Amazon](https://amzn.to/4jl3YzX)
-
 ## FAQ – Dúvidas Comuns
 
 ### O Headphone Philips TAH1108BK/55 é resistente à água?
