@@ -3,7 +3,7 @@ title: "Como ajudar alguém que está em depressão"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Depressão e um desafio real que afeta muitos homens; entenda como apoiar quem vive essa luta sem rodeios ou falsas promessas."
-image: "https://planetahomem.com.br/wp-content/uploads/2026/07/como-ajudar-alguem-que-esta-em-depressao.webp"
+image: "/img/capas/depressao-hero-v2.png"
 date: 2026-07-28
 author: "Planeta Homem"
 ---
