@@ -12,6 +12,12 @@
     { "source": "/category/musculacao/", "destination": "/categoria/musculacao/", "permanent": true },
     { "source": "/category/viagens/", "destination": "/categoria/viagens/", "permanent": true },
 
+    { "source": "/category/sexualidade/", "destination": "/categoria/casamento-e-sexualidade/", "permanent": true },
+    { "source": "/category/carreira/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+    { "source": "/category/relacionamentos/", "destination": "/categoria/casamento-e-sexualidade/", "permanent": true },
+    { "source": "/category/tecnologia/", "destination": "/categoria/eletronicos/", "permanent": true },
+    { "source": "/category/negocios/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+
     { "source": "/tag/xiaomi/", "destination": "/categoria/celulares/", "permanent": true },
     { "source": "/tag/celular-xiaomi/", "destination": "/categoria/celulares/", "permanent": true },
     { "source": "/tag/celular-preto/", "destination": "/categoria/celulares/", "permanent": true },
