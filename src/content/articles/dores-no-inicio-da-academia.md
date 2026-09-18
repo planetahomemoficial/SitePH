@@ -3,7 +3,7 @@ title: "dores no início da academia Que Todo Homem Sente (E Como Lidar)"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Dores no início da academia que todo homem sente: descubra como enfrentar esses desafios e melhorar sua performance."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-61.jpg"
+image: "/img/articles/unnamed-file-61.jpg"
 date: 2025-04-26
 author: "Planeta Homem"
 ---
@@ -45,7 +45,7 @@ As dores são, em grande parte, resultado de microlesões nas fibras musculares.
 
 ## Como lidar com as dores sem desistir
 
-![Como lidar com as dores sem desistir](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-62-1.jpg "Como lidar com as dores sem desistir")
+![Como lidar com as dores sem desistir](/img/articles/unnamed-file-62-1.jpg "Como lidar com as dores sem desistir")
 
 Lidar com a dor ao [iniciar a rotina de treinos](https://planetahomem.com.br/como-montar-um-treino-de-ciclismo-para-iniciantes/) é um desafio que muitos homens enfrentam. O importante é manter a motivação e não permitir que o desconforto te impeça de progredir. Aqui estão algumas estratégias práticas para **enfrentar as dores sem desistir**:
 

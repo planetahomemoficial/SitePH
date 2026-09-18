@@ -32,7 +32,7 @@ O passo mais difícil que tomei foi admitir para mim mesmo que precisava de ajud
 
 ## Por que o silêncio é o pior inimigo
 
-![Por que o silêncio é o pior inimigo](https://planetahomem.com.br/wp-content/uploads/2026/07/por-que-o-silencio-e-o-pior-inimigo.webp "Por que o silêncio é o pior inimigo")
+![Por que o silêncio é o pior inimigo](/img/articles/por-que-o-silencio-e-o-pior-inimigo.webp "Por que o silêncio é o pior inimigo")
 
 Eu já vivi momentos em que o silêncio parecia ser o meu maior inimigo. Ficar calado quando algo estava errado, evitar falar sobre o que realmente me incomodava acabou criando uma montanha de ressentimento dentro de mim. O silêncio não resolve nada, ele só faz crescer o problema na nossa cabeça.
 
@@ -64,7 +64,7 @@ Ter esse suporte é uma lição de caráter, porque nos mostra o valor da empati
 
 ## Como a fé pode fortalecer a batalha contra a depressão
 
-![Como a fé pode fortalecer a batalha contra a depressão](https://planetahomem.com.br/wp-content/uploads/2026/07/como-a-fe-pode-fortalecer-a-batalha-contra-a-depressao.webp "Como a fé pode fortalecer a batalha contra a depressão")
+![Como a fé pode fortalecer a batalha contra a depressão](/img/articles/como-a-fe-pode-fortalecer-a-batalha-contra-a-depressao.webp "Como a fé pode fortalecer a batalha contra a depressão")
 
 Eu já tive momentos em que a tristeza apertava tanto que parecia impossível sair dali. O que me ajudou de verdade foi uma força que veio da fé, não aquela fé distante, mas uma que você sente dentro, um alicerce que mantém a gente firme mesmo quando tudo parece desabar.
 

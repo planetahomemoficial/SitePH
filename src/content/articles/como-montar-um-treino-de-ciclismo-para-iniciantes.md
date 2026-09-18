@@ -42,7 +42,7 @@ Ao começar sua jornada no ciclismo, lembre-se de que cada item tem um papel imp
 
 ## Estratégias de treino de ciclismo para iniciantes
 
-![Estratégias de treino de ciclismo para iniciantes](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-51.jpg "Estratégias de treino de ciclismo para iniciantes")
+![Estratégias de treino de ciclismo para iniciantes](/img/articles/unnamed-file-51.jpg "Estratégias de treino de ciclismo para iniciantes")
 
 Iniciar sua jornada no **ciclismo** pode parecer desafiador, mas com as estratégias de treino certas, você pode maximizar seu progresso e desfrutar ainda mais das suas pedaladas. A chave é começar devagar, ouvindo seu corpo e aumentando gradativamente a intensidade. Aqui estão algumas dicas práticas para ajudá-lo a construir resistência e habilidade no ciclismo.
 
@@ -89,7 +89,7 @@ Essas opções de percurso têm como objetivo tornar suas primeiras experiência
 
 ## Erros comuns no treino de ciclismo e como evitá-los
 
-![Erros comuns no treino de ciclismo e como evitá-los](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-52.jpg "Erros comuns no treino de ciclismo e como evitá-los")
+![Erros comuns no treino de ciclismo e como evitá-los](/img/articles/unnamed-file-52.jpg "Erros comuns no treino de ciclismo e como evitá-los")
 
 O **treino de ciclismo** é uma experiência gratificante, mas também pode levar a erros que comprometem seu desempenho e sua segurança. Reconhecer e corrigir esses erros desde o início é crucial para aproveitar ao máximo cada pedalada. Vamos explorar alguns dos [erros mais comuns que ciclistas iniciantes cometem](https://planetahomem.com.br/os-10-erros-que-todo-homem-comete-na-academia-e-nao-percebe/) e como evitá-los.
 

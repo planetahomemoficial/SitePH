@@ -3,7 +3,7 @@ title: "Ansiedade em homens: quando o cansaço não é só físico"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Ansiedade em homens: entenda como o cansaço constante pode ser um sinal emocional e como você pode buscar ajuda."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-16.jpg"
+image: "/img/articles/unnamed-file-16.jpg"
 date: 2025-04-11
 author: "Planeta Homem"
 ---
@@ -12,7 +12,7 @@ author: "Planeta Homem"
 
 Se você está constantemente se sentindo cansado e sobrecarregado, pode estar lidando com a **ansiedade em homens** sem perceber. Esse estado emocional frequentemente se manifesta como fadiga, falta de motivação e até insônia. Reconhecer esses sinais é o primeiro passo para retomar o controle da sua vida e encontrar formas de administrar essa ansiedade
 
-![Os efeitos emocionais do cansaço constante](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-13-1024x585.jpg)
+![Os efeitos emocionais do cansaço constante](/img/articles/unnamed-file-13-1024x585.jpg)
 
 Os efeitos emocionais do **cansaço constante**
 
@@ -60,7 +60,7 @@ Para combater essa falta de foco, é útil implementar técnicas de gestão do t
 
 Buscar um equilíbrio entre atividade física, meditação e descanso é vital. Praticar exercícios, como musculação ou corrida, não apenas melhora seu condicionamento físico, mas também libera endorfinas, que ajudam a combater a ansiedade. Considere também a prática de meditação guiada que pode ser feita em poucos minutos durante o dia.
 
-![Ansiedade em homens: quando o cansaço não é só físico](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-12-1024x585.jpg)
+![Ansiedade em homens: quando o cansaço não é só físico](/img/articles/unnamed-file-12-1024x585.jpg)
 
 Ansiedade em homens: quando o cansaço não é só físico
 

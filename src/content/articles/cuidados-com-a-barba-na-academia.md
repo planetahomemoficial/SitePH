@@ -10,7 +10,7 @@ author: "Planeta Homem"
 
 **Cuidados com a barba na academia** garantem que você se mantenha confiante e apresentável durante os treinos, evitando irritações e mantendo a higiene com práticas simples e eficazes. A sala de musculação, com suas luzes e espelhos, é um campo de batalha onde sua aparência também conta — e isso não precisa ser complicado.
 
-![King C Gillette Kit Shampoo e Sérum para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
+![King C Gillette Kit Shampoo e Sérum para Barba](/img/articles/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
 
 Kit Shampoo + Sérum
 
@@ -18,7 +18,7 @@ Kit Shampoo + Sérum
 
 [🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-kit-shampoo-serum-barba/)
 
-![KING C. GILLETTE Bálsamo para Barba 75ml](https://planetahomem.com.br/wp-content/uploads/2025/04/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
+![KING C. GILLETTE Bálsamo para Barba 75ml](/img/articles/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
 
 Bálsamo para Barba
 
@@ -50,11 +50,11 @@ Uma barba desidratada fica áspera, quebradiça e pode causar coceira — especi
 
 ## Como aparar a barba de forma eficiente
 
-![Como aparar a barba de forma eficiente](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-58-1.jpg "Como aparar a barba de forma eficiente")
+![Como aparar a barba de forma eficiente](/img/articles/unnamed-file-58-1.jpg "Como aparar a barba de forma eficiente")
 
 Aparar a barba de forma eficiente é uma habilidade fundamental para todo homem que deseja manter um **visual elegante** e bem cuidado. Não se trata apenas de pegar uma tesoura e cortar; é necessário ter um plano e seguir algumas dicas práticas para garantir que o resultado final seja satisfatório.
 
-![Aparador de Pelos Philips 8 em 1 Series 3000](https://planetahomem.com.br/wp-content/uploads/2025/04/Aparador-de-Pelos-Philips-8-em-1-series-3000.jpg)
+![Aparador de Pelos Philips 8 em 1 Series 3000](/img/articles/Aparador-de-Pelos-Philips-8-em-1-series-3000.jpg)
 
 **Praticidade e estilo com o Philips 8 em 1**
 

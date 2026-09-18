@@ -3,7 +3,7 @@ title: "Como montar um negócio com pouco dinheiro em 2025"
 category: "Dinheiro, Carreira & IA"
 categorySlug: "dinheiro-carreira-e-ia"
 excerpt: "Negócio com pouco dinheiro é possível! Descubra estratégias para iniciar e crescer sua renda com investimentos acessíveis."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-6.jpg"
+image: "/img/articles/unnamed-file-6.jpg"
 date: 2025-04-05
 author: "Planeta Homem"
 ---
@@ -36,7 +36,7 @@ Maximize seus recursos usando ferramentas gratuitas. Plataformas como **Canva** 
 
 ## Como gerenciar seu negócio com orçamento limitado
 
-![Como gerenciar seu negócio com orçamento limitado](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-7.jpg "Como gerenciar seu negócio com orçamento limitado")
+![Como gerenciar seu negócio com orçamento limitado](/img/articles/unnamed-file-7.jpg "Como gerenciar seu negócio com orçamento limitado")
 
 ### Mantenha um controle financeiro rigoroso
 

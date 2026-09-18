@@ -3,7 +3,7 @@ title: "Como lidar com a pressão alta aos 30 anos"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Pressão alta aos 30 é um problema crescente. Entenda como reverter isso e manter sua saúde em dia com hábitos simples."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-41.jpg"
+image: "/img/articles/unnamed-file-41.jpg"
 date: 2025-04-22
 author: "Planeta Homem"
 ---
@@ -29,7 +29,7 @@ A pressão alta, também conhecida como hipertensão, ocorre quando a força do 
 
 Manter-se informado e consciente dos fatores de risco é o primeiro passo para prevenir a hipertensão. Além disso, incorporar hábitos saudáveis pode reverter ou evitar a pressão alta, assegurando uma melhor qualidade de vida.
 
-![G-Tech BSP11 Aparelho de Pressão Digital Automático de Braço](https://planetahomem.com.br/wp-content/uploads/2025/04/G-Tech-BSP11-Aparelho-de-Pressao-Digital-Automatico-de-Braco22-36cm.jpg)
+![G-Tech BSP11 Aparelho de Pressão Digital Automático de Braço](/img/articles/G-Tech-BSP11-Aparelho-de-Pressao-Digital-Automatico-de-Braco22-36cm.jpg)
 
 **Monitore sua saúde com o G-Tech BSP11**
 
@@ -54,7 +54,7 @@ Alguns comportamentos diários podem impactar significativamente a pressão arte
 
 O estresse crônico também é um fator significativo. É comum que homens em idade jovem enfrentem pressões no trabalho e nas relações pessoais. Saber gerenciar esse estresse através de técnicas como meditação, respiração ou atividades de lazer pode melhorar não só a saúde mental, mas também a saúde física.
 
-![G-Tech Oxímetro de Pulso Portátil OLED Graph](https://planetahomem.com.br/wp-content/uploads/2025/04/G-Tech-Oximetro-De-Pulso-Portatil-Modelo-Oled-Graph.jpg)
+![G-Tech Oxímetro de Pulso Portátil OLED Graph](/img/articles/G-Tech-Oximetro-De-Pulso-Portatil-Modelo-Oled-Graph.jpg)
 
 **G-Tech Oxímetro de Pulso OLED Graph**
 

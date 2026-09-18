@@ -16,11 +16,25 @@ export async function getStaticPaths() {
   });
 }
 
-const { categoryName, articles } = Astro.props;
+const { slug, categoryName, articles } = Astro.props;
+
+const siteUrl = "https://planetahomem.com.br";
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Início", "item": siteUrl },
+    { "@type": "ListItem", "position": 2, "name": categoryName, "item": `${siteUrl}/categoria/${slug}/` },
+  ],
+};
 ---
-<BaseLayout title={`${categoryName} — Planeta Homem`} description={`Todos os artigos de ${categoryName} no Planeta Homem.`}>
+<BaseLayout title={`${categoryName} — Planeta Homem`} description={`Todos os artigos de ${categoryName} no Planeta Homem.`} jsonLd={[breadcrumbSchema]}>
   <div class="article-header">
     <div class="wrap">
+      <nav class="breadcrumbs" aria-label="Trilha de navegação">
+        <a href="/">Início</a> <span>/</span>
+        <span aria-current="page">{categoryName}</span>
+      </nav>
       <span class="tag">{categoryName}</span>
       <h1>{categoryName}</h1>
     </div>

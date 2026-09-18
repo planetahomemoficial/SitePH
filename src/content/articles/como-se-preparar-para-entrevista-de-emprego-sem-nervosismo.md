@@ -3,7 +3,7 @@ title: "Como se preparar para entrevista de emprego sem nervosismo"
 category: "Dinheiro, Carreira & IA"
 categorySlug: "dinheiro-carreira-e-ia"
 excerpt: "Como se preparar para entrevista é fundamental para garantir sua colocação. Dicas práticas para destacar suas habilidades e se sair bem."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/05/unnamed-file-2.jpg"
+image: "/img/articles/unnamed-file-2.jpg"
 date: 2025-05-03
 author: "Planeta Homem"
 ---
@@ -66,7 +66,7 @@ Compreender as especificidades do cargo é igualmente importante. Leia a descri�
 
 ## Dicas práticas para se preparar para perguntas comuns
 
-![Dicas práticas para se preparar para perguntas comuns](https://planetahomem.com.br/wp-content/uploads/2025/05/unnamed-file-3.jpg "Dicas práticas para se preparar para perguntas comuns")
+![Dicas práticas para se preparar para perguntas comuns](/img/articles/unnamed-file-3.jpg "Dicas práticas para se preparar para perguntas comuns")
 
 Preparar-se para uma entrevista significa também se antecipar às perguntas comuns que os recrutadores costumam fazer. Muitas vezes, essas perguntas têm o objetivo de entender sua experiência, habilidades e adequação para a cultura da empresa. Uma abordagem prática é pensar em **exemplos concretos** de suas experiências passadas que você pode usar para ilustrar suas respostas.
 

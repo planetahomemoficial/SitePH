@@ -3,7 +3,7 @@ title: "Coceira na Barba? Veja o Que Está Causando e Como Resolver"
 category: "Estilo Masculino"
 categorySlug: "estilo-masculino"
 excerpt: "Coceira na barba é um incômodo comum. Descubra as causas e como tratar com cuidados simples."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-40.jpg"
+image: "/img/articles/unnamed-file-40.jpg"
 date: 2025-04-23
 author: "Planeta Homem"
 ---
@@ -12,7 +12,7 @@ author: "Planeta Homem"
 
 Se você tem **coceira na barba**, sabe como isso pode ser irritante e até constrangedor. Causada por diversos fatores, a coceira pode afetar não só o conforto, mas também a sua aparência e confiança. Vamos explorar as razões por trás desse desconforto e as estratégias práticas para cuidar da sua barba, mantendo-a saudável e agradável.
 
-![King C Gillette Kit Shampoo e Sérum para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
+![King C Gillette Kit Shampoo e Sérum para Barba](/img/articles/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
 
 Kit Shampoo + Sérum
 
@@ -20,7 +20,7 @@ Kit Shampoo + Sérum
 
 [🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-kit-shampoo-serum-barba/)
 
-![KING C. GILLETTE Bálsamo para Barba 75ml](https://planetahomem.com.br/wp-content/uploads/2025/04/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
+![KING C. GILLETTE Bálsamo para Barba 75ml](/img/articles/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
 
 Bálsamo para Barba
 
@@ -56,7 +56,7 @@ Considere o caso de um homem que, ao notar a coceira, passa a evitar interaçõe
 
 É crucial entender que a **coceira na barba** é um problema comum e que, com as medidas corretas, pode ser tratada. Ao abordar a questão com confiança, você pode restaurar sua tranquilidade e autoestima, mantendo uma presença forte e relaxada.
 
-![King C Gillette Kit Shampoo para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
+![King C Gillette Kit Shampoo para Barba](/img/articles/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
 
 **Cuide da sua barba com excelência: King C Gillette Kit**
 

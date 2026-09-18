@@ -3,7 +3,7 @@ title: "Não Aguenta Mais Falhar Na Cama? A Ciência Pode Te Ajudar Assim…"
 category: "Casamento & Sexualidade"
 categorySlug: "casamento-e-sexualidade"
 excerpt: "Disfunção Erétil: Os 4 Tratamentos de 2025 que a Ciência Valida para Você Nunca Mais Falhar na Cama INTRODUÇÃO A disfunção erétil deixou de ser"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/09/youtube-_bcLu9z6yqg.jpg"
+image: "/img/articles/youtube-_bcLu9z6yqg.jpg"
 date: 2025-09-26
 author: "Planeta Homem"
 ---

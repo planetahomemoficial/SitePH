@@ -2,8 +2,27 @@
 interface Props {
   title: string;
   description?: string;
+  jsonLd?: object[];
 }
-const { title, description = "Planeta Homem — Força, Honra, Propósito" } = Astro.props;
+const { title, description = "Planeta Homem — Força, Honra, Propósito", jsonLd = [] } = Astro.props;
+
+const siteUrl = "https://planetahomem.com.br";
+const logoUrl = `${siteUrl}/img/brand/logo-planeta-homem.png`;
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Planeta Homem",
+  "url": siteUrl,
+  "logo": logoUrl,
+};
+
+const websiteSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Planeta Homem",
+  "url": siteUrl,
+};
 
 const navItems = [
   { href: "/#saude", label: "Saúde Masculina" },
@@ -32,6 +51,11 @@ const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").
   <meta property="og:type" content="website" />
   <meta property="og:url" content={canonicalUrl} />
   <meta name="twitter:card" content="summary_large_image" />
+  <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+  {jsonLd.map((schema) => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
   <link rel="stylesheet" href="/css/style.css" />
   <script is:inline>
     (function () {

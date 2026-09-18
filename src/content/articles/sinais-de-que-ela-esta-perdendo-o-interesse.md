@@ -3,7 +3,7 @@ title: "Sinais de que ela está perdendo o interesse"
 category: "Casamento & Sexualidade"
 categorySlug: "casamento-e-sexualidade"
 excerpt: "Sinais que ela perdeu o interesse podem ser sutis, mas são essenciais para que você tome as decisões certas e mantenha uma relação saudável."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-63.jpg"
+image: "/img/articles/unnamed-file-63.jpg"
 date: 2025-04-26
 author: "Planeta Homem"
 ---
@@ -43,7 +43,7 @@ Essas acusações não devem ser vistas como ataques, mas como chamadas de aten�
 
 ## A comunicação se tornou escassa
 
-![A comunicação se tornou escassa](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-64-1.jpg "A comunicação se tornou escassa")
+![A comunicação se tornou escassa](/img/articles/unnamed-file-64-1.jpg "A comunicação se tornou escassa")
 
 Um dos sinais mais claros de que algo não vai bem em um relacionamento é quando **a comunicação se tornou escassa**. Se você percebe que as conversas, que anteriormente eram frequentes e significativas, agora são raras e superficiais, é hora de atenção. Essa falta de diálogo pode ser resultado de desinteresse ou de ressentimentos acumulados, o que pode levar a um afastamento ainda maior se não for tratado.
 

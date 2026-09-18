@@ -3,7 +3,7 @@ title: "Lua de Mel Inesquecível: Destinos que Equilibram Romantismo e Aventura"
 category: "Viagens"
 categorySlug: "viagens"
 excerpt: "Lua de mel: descubra dicas únicas para uma experiência romântica e memorável que vocês nunca vão esquecer. Comece sua vida a dois com estilo!"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-55.jpg"
+image: "/img/articles/unnamed-file-55.jpg"
 date: 2025-04-23
 author: "Planeta Homem"
 ---
@@ -51,7 +51,7 @@ Tente equilibrar a agenda com atividades relaxantes e exploratórias. O importan
 
 ## Como planejar uma lua de mel sem estresse
 
-![Como planejar uma lua de mel sem estresse](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-56.jpg "Como planejar uma lua de mel sem estresse")
+![Como planejar uma lua de mel sem estresse](/img/articles/unnamed-file-56.jpg "Como planejar uma lua de mel sem estresse")
 
 Planejar uma lua de mel pode ser uma experiência emocionante, mas também pode gerar estresse se não for feito com organização. Para garantir que tudo flua bem, siga algumas etapas práticas que vão ajudar a transformar esse momento especial em uma memória agradável.
 

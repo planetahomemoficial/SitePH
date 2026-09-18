@@ -3,7 +3,7 @@ title: "Nomes Masculinos 2025: 100 Mais Populares e Seus Significados"
 category: "Estilo Masculino"
 categorySlug: "estilo-masculino"
 excerpt: "Introdução Escolher o nome de um filho é uma das decisões mais especiais que os pais tomam. Ao analisar os nomes masculinos 2025, percebemos uma"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/100-Nomes-Masculinos-Mais-Populares-e-Seus-Significados-em-2025.png"
+image: "/img/articles/100-Nomes-Masculinos-Mais-Populares-e-Seus-Significados-em-2025.png"
 date: 2025-04-23
 author: "Planeta Homem"
 ---

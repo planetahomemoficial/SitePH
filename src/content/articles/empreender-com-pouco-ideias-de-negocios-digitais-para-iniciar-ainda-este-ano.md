@@ -3,7 +3,7 @@ title: "Empreender com pouco: ideias de negócios digitais para iniciar ainda es
 category: "Dinheiro, Carreira & IA"
 categorySlug: "dinheiro-carreira-e-ia"
 excerpt: "Como ganhar dinheiro na internet tem sido a porta de entrada para muitos empreendedores iniciantes. Você pode começar com baixo investimento e crescer passo a passo."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/09/empreender-com-pouco-ideias-de-negocios-digitais-para-iniciar-ainda-este-ano.jpg"
+image: "/img/articles/empreender-com-pouco-ideias-de-negocios-digitais-para-iniciar-ainda-este-ano.jpg"
 date: 2025-09-26
 author: "Planeta Homem"
 ---
@@ -50,7 +50,7 @@ Conhecer e escolher a plataforma certa faz toda diferença para o sucesso das su
 
 ## Dicas para aumentar sua renda e fidelizar clientes na internet
 
-![dicas para aumentar sua renda e fidelizar clientes na internet](https://planetahomem.com.br/wp-content/uploads/2025/09/dicas-para-aumentar-sua-renda-e-fidelizar-clientes-na-internet.jpg "dicas para aumentar sua renda e fidelizar clientes na internet")
+![dicas para aumentar sua renda e fidelizar clientes na internet](/img/articles/dicas-para-aumentar-sua-renda-e-fidelizar-clientes-na-internet.jpg "dicas para aumentar sua renda e fidelizar clientes na internet")
 
 Aumentar a renda e fidelizar clientes na internet exige estratégias eficazes e foco na experiência do consumidor. Uma dica importante é oferecer **atendimento personalizado**, respondendo dúvidas rapidamente e mostrando interesse genuíno pelo cliente. Isso cria confiança e aumenta a chance de compras repetidas.
 

@@ -29,10 +29,47 @@ const dateFormatted = new Intl.DateTimeFormat("pt-BR", {
   year: "numeric",
   timeZone: "UTC",
 }).format(article.data.date);
+
+const siteUrl = "https://planetahomem.com.br";
+const articleUrl = `${siteUrl}/${article.id}/`;
+const imageUrl = article.data.image.startsWith("http") ? article.data.image : `${siteUrl}${article.data.image}`;
+const isoDate = article.data.date.toISOString();
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": article.data.title,
+  "description": article.data.excerpt,
+  "image": [imageUrl],
+  "datePublished": isoDate,
+  "dateModified": isoDate,
+  "author": { "@type": "Organization", "name": article.data.author },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Planeta Homem",
+    "logo": { "@type": "ImageObject", "url": `${siteUrl}/img/brand/logo-planeta-homem.png` },
+  },
+  "mainEntityOfPage": { "@type": "WebPage", "@id": articleUrl },
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Início", "item": siteUrl },
+    { "@type": "ListItem", "position": 2, "name": article.data.category, "item": `${siteUrl}/categoria/${article.data.categorySlug}/` },
+    { "@type": "ListItem", "position": 3, "name": article.data.title, "item": articleUrl },
+  ],
+};
 ---
-<BaseLayout title={`${article.data.title} — Planeta Homem`} description={article.data.excerpt}>
+<BaseLayout title={`${article.data.title} — Planeta Homem`} description={article.data.excerpt} jsonLd={[articleSchema, breadcrumbSchema]}>
   <div class="article-header">
     <div class="wrap">
+      <nav class="breadcrumbs" aria-label="Trilha de navegação">
+        <a href="/">Início</a> <span>/</span>
+        <a href={`/categoria/${article.data.categorySlug}/`}>{article.data.category}</a> <span>/</span>
+        <span aria-current="page">{article.data.title}</span>
+      </nav>
       <span class="tag">{article.data.category}</span>
       <h1>{article.data.title}</h1>
       <p class="article-meta">Publicado em {dateFormatted}</p>

@@ -3,7 +3,7 @@ title: "As 7 Melhores Academias de Musculação em botafogo no Rio de Janeiro [2
 category: "Musculação"
 categorySlug: "musculacao"
 excerpt: "Você está em busca de uma academia de musculação em Botafogo no Rio que realmente entregue resultados rápidos, com estrutura moderna, profissionais qualificados e ambiente"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/melhores-academias-de-musculacao-em-Botafogo.png"
+image: "/img/articles/melhores-academias-de-musculacao-em-Botafogo.png"
 date: 2025-04-21
 author: "Planeta Homem"
 ---

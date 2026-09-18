@@ -58,7 +58,7 @@ Quando o tempo separados chega ao fim, é vital que ambos sintam que a experiên
 
 ## Como comunicar suas emoções durante esse período
 
-![Como comunicar suas emoções durante esse período](https://planetahomem.com.br/wp-content/uploads/2025/05/unnamed-file-1-1.jpg "Como comunicar suas emoções durante esse período")
+![Como comunicar suas emoções durante esse período](/img/articles/unnamed-file-1-1.jpg "Como comunicar suas emoções durante esse período")
 
 Durante um tempo separado, a comunicação das emoções é essencial para evitar mal-entendidos e fortalecer a conexão. Muitas vezes, o desafio não está apenas em sentir, mas em como expressar isso de forma clara e eficaz. Para os homens, isso pode significar um esforço consciente, já que lidar com emoções pode não ser tão natural. Aqui estão algumas dicas sobre como você pode se comunicar durante esse período.
 

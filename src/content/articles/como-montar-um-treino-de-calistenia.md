@@ -3,7 +3,7 @@ title: "Como montar um treino de calistenia"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Treino de calistenia: descubra como desenvolver força e definição muscular com métodos efetivos e sem a necessidade de equipamentos complexos."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-59.jpg"
+image: "/img/articles/unnamed-file-59.jpg"
 date: 2025-04-26
 author: "Planeta Homem"
 ---
@@ -12,7 +12,7 @@ author: "Planeta Homem"
 
 **Treino de calistenia** é uma prática que vem ganhando destaque entre homens que buscam força, definição e um corpo atlético utilizando o próprio peso corporal. Além de ser acessível, requer pouco ou nenhum equipamento, o que facilita a incorporação de novos hábitos de saúde na sua rotina. Neste artigo, você descobrirá os fundamentos, os benefícios e técnicas essenciais para dominá-lo de forma prática e eficaz.
 
-![Prancha de Flexão 9 em 1 Portátil Dobrável](https://planetahomem.com.br/wp-content/uploads/2025/04/Prancha-Flexao-9-em-1-Portatil-Dobravel-Push-Up-Adulto-Triceps-Peito-Costas-Funcional-Calistenia-Em-Casa.jpg)
+![Prancha de Flexão 9 em 1 Portátil Dobrável](/img/articles/Prancha-Flexao-9-em-1-Portatil-Dobravel-Push-Up-Adulto-Triceps-Peito-Costas-Funcional-Calistenia-Em-Casa.jpg)
 
 **Prancha de Flexão 9 em 1: treino completo em casa**
 
@@ -58,7 +58,7 @@ Ao se conectar com outros praticantes, você não apenas se motiva, mas também 
 
 ## Principais exercícios de calistenia para iniciantes
 
-![Principais exercícios de calistenia para iniciantes](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-60-1.jpg "Principais exercícios de calistenia para iniciantes")
+![Principais exercícios de calistenia para iniciantes](/img/articles/unnamed-file-60-1.jpg "Principais exercícios de calistenia para iniciantes")
 
 Se você está começando sua jornada no **treino de calistenia**, é fundamental conhecer os exercícios mais eficazes para construir força e resistência. Os iniciantes devem focar em movimentos básicos que ajudam a desenvolver a técnica adequada, além de serem o ponto de partida para exercícios mais avançados. Aqui estão os principais exercícios que você deve incluir na sua rotina.
 
@@ -72,7 +72,7 @@ Se você está começando sua jornada no **treino de calistenia**, é fundamenta
 
 Integrar esses exercícios na sua rotina não só melhora a força, mas também aumenta a confiança. Comece devagar e ouça seu corpo; a progressão é a chave. À medida que você se sentir mais confortável, pode adicionar variações e aumentar a intensidade.
 
-![Kit Halteres 6 em 1 Peso Musculação até 20kg Ajustável Preto](https://planetahomem.com.br/wp-content/uploads/2025/04/Kit-Halteres-6-em-1-Peso-Musculacao-ate-20kg-Ajustavel-Preto.jpg)
+![Kit Halteres 6 em 1 Peso Musculação até 20kg Ajustável Preto](/img/articles/Kit-Halteres-6-em-1-Peso-Musculacao-ate-20kg-Ajustavel-Preto.jpg)
 
 **Kit Halteres 6 em 1 – Ajuste o peso, evolua nos treinos**
 
@@ -110,7 +110,7 @@ Ter objetivos definidos é vital para qualquer programa de treino. Pergunte a si
 
 Certifique-se de acompanhar seu progresso. Isso não apenas indica evolução, mas também mantém você focado e motivado.
 
-![Kit 3 Elásticos Faixas Super Band para Exercícios](https://planetahomem.com.br/wp-content/uploads/2025/04/Kit-3-Elastico-Faixas-Extra-Forte-Super-Band-Para-Exercicios.jpg)
+![Kit 3 Elásticos Faixas Super Band para Exercícios](/img/articles/Kit-3-Elastico-Faixas-Extra-Forte-Super-Band-Para-Exercicios.jpg)
 
 **Kit 3 Elásticos Super Band – Alta resistência nos seus treinos**
 

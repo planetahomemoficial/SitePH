@@ -3,7 +3,7 @@ title: "Night Calm Melatonina em gotas sublingual, 30 mL, Biogens (Maracujá)"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Introdução Já parou para pensar em quão vital é uma boa noite de sono para a nossa saúde e bem-estar? Com as demandas do dia"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1.jpg"
+image: "/img/articles/Night-Calm-Complex-–-Biogens-1.jpg"
 date: 2025-04-20
 author: "Planeta Homem"
 ---
@@ -16,7 +16,7 @@ Hoje, iremos explorar a Night Calm Melatonina em gotas sublingual, 30 mL, da Bio
 
 Você encontrará neste review informações detalhadas sobre o produto, incluindo suas características, benefícios e opiniões de usuários, para que possa decidir se a Night Calm é a solução ideal para suas noites de sono.
 
-[![Frasco da Night Calm Melatonina em gotas sublingual sabor maracujá da Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1-689x1024.jpg)](https://amzn.to/4jjHEGA)
+[![Frasco da Night Calm Melatonina em gotas sublingual sabor maracujá da Biogens](/img/articles/Night-Calm-Complex-–-Biogens-1-689x1024.jpg)](https://amzn.to/4jjHEGA)
 
 Night Calm Melatonina da Biogens – Solução prática para noites tranquilas
 
@@ -31,7 +31,7 @@ Night Calm Melatonina da Biogens – Solução prática para noites tranquilas
 **Material:** Solução líquida com sabor de maracujá  
 **Design:** Frasco de vidro com conta-gotas para dosagem precisa
 
-![Night Calm Complex – Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1.jpg)
+![Night Calm Complex – Biogens](/img/articles/Night-Calm-Complex-–-Biogens-1.jpg)
 
 **Durma melhor com Night Calm Complex – Biogens**
 
@@ -55,7 +55,7 @@ Outra vantagem é que a melatonina é uma alternativa natural aos tranquilizante
 
 Além disso, a praticidade das gotas sublinguais permite que o usuário a leve para qualquer lugar, facilitando o uso em viagens ou em momentos em que a rotina está agitada.
 
-[![Frasco da Night Calm Melatonina em gotas sublingual sabor maracujá da Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Ingredientes-1024x1024.jpg)](https://amzn.to/4jjHEGA)
+[![Frasco da Night Calm Melatonina em gotas sublingual sabor maracujá da Biogens](/img/articles/Night-Calm-Complex-–-Ingredientes-1024x1024.jpg)](https://amzn.to/4jjHEGA)
 
 ## Modo de Uso da Night Calm Melatonina
 

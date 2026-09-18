@@ -3,7 +3,7 @@ title: "Como organizar finanças pessoais e sair do vermelho"
 category: "Dinheiro, Carreira & IA"
 categorySlug: "dinheiro-carreira-e-ia"
 excerpt: "Organizar finanças pessoais é essencial para alcançar objetivos e garantir segurança. Conheça métodos que realmente funcionam."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-25.jpg"
+image: "/img/articles/unnamed-file-25.jpg"
 date: 2025-04-13
 author: "Planeta Homem"
 ---
@@ -12,13 +12,13 @@ author: "Planeta Homem"
 
 Se você quer mudar de vida, começar a **organizar finanças pessoais** é um ótimo passo. Não se trata apenas de ter dinheiro no bolso, mas de entender para onde ele vai e como pode ser usado para construir um futuro mais sólido. Ao tomar as rédeas de sua vida financeira, você não só ganha clareza, mas também abre portas para novos investimentos e oportunidades. Vamos juntos explorar métodos que podem te ajudar a gerenciar seu dinheiro de maneira eficaz.
 
-![Os segredos da mente milionária](https://planetahomem.com.br/wp-content/uploads/2025/04/Os-segredos-de-uma-mente-milionaria.jpg)
+![Os segredos da mente milionária](/img/articles/Os-segredos-de-uma-mente-milionaria.jpg)
 [Ver na Amazon](https://amzn.to/4jAxAsN)
 
-![Do Mil ao Milhão](https://planetahomem.com.br/wp-content/uploads/2025/04/Do-Mil-ao-Milhao.-Sem-Cortar-o-Cafezinho.jpg)
+![Do Mil ao Milhão](/img/articles/Do-Mil-ao-Milhao.-Sem-Cortar-o-Cafezinho.jpg)
 [Ver na Amazon](https://amzn.to/42v59p8)
 
-![A psicologia financeira](https://planetahomem.com.br/wp-content/uploads/2025/04/A-psicologia-financeira.jpg)
+![A psicologia financeira](/img/articles/A-psicologia-financeira.jpg)
 [Ver na Amazon](https://amzn.to/3EkRBV1)
 
 ## Como identificar seus hábitos financeiros

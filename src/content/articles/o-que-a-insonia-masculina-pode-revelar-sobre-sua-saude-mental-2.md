@@ -3,7 +3,7 @@ title: "O que a insônia masculina pode revelar sobre sua saúde mental"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Insônia masculina: descubra como solucionar problemas de sono e melhorar sua qualidade de vida com dicas práticas e eficazes."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-38.jpg"
+image: "/img/articles/unnamed-file-38.jpg"
 date: 2025-04-20
 author: "Planeta Homem"
 ---
@@ -26,7 +26,7 @@ Um exemplo comum é o homem que, devido a um trabalho estressante, não consegue
 
 Identificar e abordar a **causa raiz da insônia** é o primeiro passo para restabelecer um padrão saudável de sono. Seja adaptando sua rotina ou buscando apoio profissional, agir é essencial para noites mais tranquilas e dias mais produtivos.
 
-![Night Calm Complex – Biogens](https://planetahomem.com.br/wp-content/uploads/2025/04/Night-Calm-Complex-–-Biogens-1.jpg)
+![Night Calm Complex – Biogens](/img/articles/Night-Calm-Complex-–-Biogens-1.jpg)
 
 **Night Calm Complex – Biogens: sono leve, mente tranquila**
 

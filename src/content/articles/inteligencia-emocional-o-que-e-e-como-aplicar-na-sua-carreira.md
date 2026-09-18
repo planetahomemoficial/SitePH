@@ -3,7 +3,7 @@ title: "Inteligência emocional: o que é e como aplicar na sua carreira"
 category: "Dinheiro, Carreira & IA"
 categorySlug: "dinheiro-carreira-e-ia"
 excerpt: "Inteligência emocional é a habilidade que todo homem deve desenvolver para melhorar relações e performance diária. Entenda como aplicá-la."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-2.jpg"
+image: "/img/articles/unnamed-file-2.jpg"
 date: 2025-04-05
 author: "Planeta Homem"
 ---
@@ -40,7 +40,7 @@ Envolver-se ativamente em desenvolver sua inteligência emocional transformará 
 
 ## Dicas práticas para desenvolver sua inteligência emocional
 
-![Dicas práticas para desenvolver sua inteligência emocional](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-3-1.jpg "Dicas práticas para desenvolver sua inteligência emocional")
+![Dicas práticas para desenvolver sua inteligência emocional](/img/articles/unnamed-file-3-1.jpg "Dicas práticas para desenvolver sua inteligência emocional")
 
 Para **desenvolver sua inteligência emocional**, é fundamental adotar práticas concretas no dia a dia. Aqui estão algumas dicas pragmáticas que você pode implementar:
 

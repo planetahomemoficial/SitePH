@@ -3,7 +3,7 @@ title: "Como se destacar no trabalho: 10 atitudes que fazem a diferença"
 category: "Dinheiro, Carreira & IA"
 categorySlug: "dinheiro-carreira-e-ia"
 excerpt: "Como se destacar no trabalho com dicas práticas e diretas que fazem a diferença na carreira de homens ambiciosos. Conheça soluções eficazes!"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file.jpg"
+image: "/img/articles/unnamed-file.jpg"
 date: 2025-04-04
 author: "Planeta Homem"
 ---
@@ -40,7 +40,7 @@ Considere o caso de um vendedor que se destacou por apresentar relatórios seman
 
 ## Habilidades essenciais que todo homem deve desenvolver
 
-![habilidades essenciais que todo homem deve desenvolver](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-1.jpg "habilidades essenciais que todo homem deve desenvolver")
+![habilidades essenciais que todo homem deve desenvolver](/img/articles/unnamed-file-1.jpg "habilidades essenciais que todo homem deve desenvolver")
 
 Desenvolver **habilidades essenciais** é fundamental para qualquer homem que deseja se destacar no trabalho. Primeiramente, foque na **comunicação eficaz**. Ser capaz de expressar suas ideias claramente e ouvir os outros é crucial. Pratique se posicionar em reuniões e apresentar suas opiniões de forma assertiva.
 

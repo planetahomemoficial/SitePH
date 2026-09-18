@@ -3,7 +3,7 @@ title: "Os Erros Que Todo Homem Comete na Academia e Não Percebe"
 category: "Musculação"
 categorySlug: "musculacao"
 excerpt: "Erros que todo homem comete na academia podem prejudicar seus resultados. Descubra como evitá-los e maximize seu treino."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-42.jpg"
+image: "/img/articles/unnamed-file-42.jpg"
 date: 2025-04-23
 author: "Planeta Homem"
 ---

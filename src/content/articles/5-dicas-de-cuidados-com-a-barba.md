@@ -3,7 +3,7 @@ title: "5 Dicas de cuidados com a barba"
 category: "Estilo Masculino"
 categorySlug: "estilo-masculino"
 excerpt: "Cuidados com a barba: descubra dicas práticas para manter um visual bem cuidado e atraente, destacando-se com facilidade."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-26.jpg"
+image: "/img/articles/unnamed-file-26.jpg"
 date: 2025-04-16
 author: "Planeta Homem"
 ---
@@ -12,7 +12,7 @@ author: "Planeta Homem"
 
 Cuidar da aparência é fundamental, e os **cuidados com a barba** desempenham um papel crucial nisso. Um homem bem cuidado não apenas se destaca, mas também transmite confiança. Se você quer que sua barba não seja apenas mais um detalhe, mas uma verdadeira declaração de estilo, é hora de prestar atenção na forma como você a trata. Vamos explorar dicas e práticas que garantirão que sua barba siga sempre com um aspecto elegante e atraente.
 
-![King C Gillette Kit Shampoo e Sérum para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
+![King C Gillette Kit Shampoo e Sérum para Barba](/img/articles/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
 
 Kit Shampoo + Sérum
 
@@ -20,7 +20,7 @@ Kit Shampoo + Sérum
 
 [🔍 Ver review completo](https://planetahomem.com.br/king-c-gillette-kit-shampoo-serum-barba/)
 
-![KING C. GILLETTE Bálsamo para Barba 75ml](https://planetahomem.com.br/wp-content/uploads/2025/04/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
+![KING C. GILLETTE Bálsamo para Barba 75ml](/img/articles/KING-C.-GILLETTE-Balsamo-para-Barba-75ml.jpg)
 
 Bálsamo para Barba
 
@@ -32,7 +32,7 @@ Bálsamo para Barba
 
 Escolher o estilo de barba certo pode transformar completamente sua aparência e aumentar sua confiança. Contudo, há fatores a se considerar, como o formato do rosto, o tipo de cabelo e seu estilo de vida. Ao escolher um estilo que lhe agrade e se adapte, você não apenas melhora sua estética, mas também expressa sua personalidade.
 
-![King C Gillette Kit Shampoo para Barba](https://planetahomem.com.br/wp-content/uploads/2025/04/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
+![King C Gillette Kit Shampoo para Barba](/img/articles/King-C-Gillette-Kit-Shampoo-para-barba.jpg)
 
 **Cuide da sua barba com excelência: King C Gillette Kit**
 
@@ -54,7 +54,7 @@ Ao escolher o estilo de barba, lembre-se: a confiança é a chave. Um visual que
 
 ## Dicas para manter a barba limpa e saudável
 
-![Dicas para manter a barba limpa e saudável](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-27-1.jpg "Dicas para manter a barba limpa e saudável")
+![Dicas para manter a barba limpa e saudável](/img/articles/unnamed-file-27-1.jpg "Dicas para manter a barba limpa e saudável")
 
 Manter a barba limpa e saudável é essencial para um visual atraente e que transmite cuidado. Uma barba bem tratada não apenas melhora a aparência, mas também reflete seu compromisso com a higiene pessoal. A boa notícia é que o processo de cuidados não precisa ser complicado; algumas práticas simples podem fazer toda a diferença.
 
@@ -84,7 +84,7 @@ Prestar atenção a esses erros pode fazer a diferença na sua rotina de cuidado
 
 ## Como aparar sua barba corretamente em casa
 
-![Como aparar sua barba corretamente em casa](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-28-1.jpg "Como aparar sua barba corretamente em casa")
+![Como aparar sua barba corretamente em casa](/img/articles/unnamed-file-28-1.jpg "Como aparar sua barba corretamente em casa")
 
 Aparar a barba em casa pode parecer uma tarefa simples, mas fazer isso da maneira correta é fundamental para garantir um visual limpo e bem cuidado. Uma boa técnica de aparo não apenas ajuda a manter a barba na forma desejada, mas também evita erros que podem levar a uma aparência desleixada. Ter as ferramentas certas e seguir um passo a passo pode facilitar bastante esse processo.
 

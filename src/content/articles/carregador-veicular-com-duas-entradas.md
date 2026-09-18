@@ -3,7 +3,7 @@ title: "Carregador Veicular com duas entradas Turbo 60W"
 category: "Acessórios"
 categorySlug: "acessorios"
 excerpt: "Introdução do Artigo Você já se encontrou em situações desconfortáveis durante uma viagem de carro, tendo que interromper sua jornada para procurar uma tomada e"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/Carregador-Veicular-Turbo-60W.jpg"
+image: "/img/articles/Carregador-Veicular-Turbo-60W.jpg"
 date: 2025-04-03
 author: "Planeta Homem"
 ---
@@ -20,7 +20,7 @@ Continue lendo para descobrir todas as funcionalidades, benefícios e caracterí
 
 ## Características Técnicas do Produto
 
-[![](https://planetahomem.com.br/wp-content/uploads/2025/04/Carregador-Veicular-Turbo-60W-2.jpg)](https://amzn.to/4jetcPN)
+[![](/img/articles/Carregador-Veicular-Turbo-60W-2.jpg)](https://amzn.to/4jetcPN)
 
 O Carregador Veicular Turbo 60W é projetado para atender às necessidades de carregamento de diversos dispositivos, tanto iOS quanto Android. Com um design moderno e compacto, ele promete ser indispensável em qualquer carro. Aqui estão algumas das principais características do produto:
 

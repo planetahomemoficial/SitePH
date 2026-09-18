@@ -3,7 +3,7 @@ title: "Rotina matinal masculina: hábitos que aumentam foco e energia"
 category: "Homem, Propósito & Fé"
 categorySlug: "homem-proposito-e-fe"
 excerpt: "Rotina Matinal com hábitos simples para aumentar seu foco e energia logo cedo, ajudando a transformar seu dia de forma prática e eficiente."
-image: "https://planetahomem.com.br/wp-content/uploads/2026/04/Gemini_Generated_Image_ca4fgzca4fgzca4f.png"
+image: "/img/articles/Gemini_Generated_Image_ca4fgzca4fgzca4f.png"
 date: 2026-04-15
 author: "Planeta Homem"
 ---
@@ -28,7 +28,7 @@ Por fim, uma rotina bem planejada cria um senso de [disciplina](https://planetah
 
 ## hábitos matinais que melhoram a concentração
 
-![hábitos matinais que melhoram a concentração](https://planetahomem.com.br/wp-content/uploads/2026/04/habitos-matinais-que-melhoram-a-concentracao.webp "hábitos matinais que melhoram a concentração")
+![hábitos matinais que melhoram a concentração](/img/articles/habitos-matinais-que-melhoram-a-concentracao.webp "hábitos matinais que melhoram a concentração")
 
 Para melhorar a concentração logo pela manhã, alguns **hábitos matinais** são essenciais e devem ser incorporados à rotina. Comece com a prática da meditação ou exercícios de respiração profunda, que ajudam a acalmar a mente e a preparar o cérebro para focar nas tarefas do dia.
 
@@ -62,7 +62,7 @@ Incluir essas práticas ajuda não apenas a aumentar a energia, mas também a de
 
 ## como adaptar a rotina ao seu estilo de vida
 
-![como adaptar a rotina ao seu estilo de vida](https://planetahomem.com.br/wp-content/uploads/2026/04/como-adaptar-a-rotina-ao-seu-estilo-de-vida.webp "como adaptar a rotina ao seu estilo de vida")
+![como adaptar a rotina ao seu estilo de vida](/img/articles/como-adaptar-a-rotina-ao-seu-estilo-de-vida.webp "como adaptar a rotina ao seu estilo de vida")
 
 Cada pessoa tem um ritmo único, por isso adaptar a **rotina matinal** ao seu estilo de vida é fundamental para manter a consistência e os benefícios a longo prazo. Primeiro, avalie seus horários e compromissos para identificar qual período da manhã é mais adequado para suas atividades.
 

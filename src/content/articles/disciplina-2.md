@@ -3,7 +3,7 @@ title: "Disciplina não é motivação: o que a Bíblia já dizia sobre hábito"
 category: "Homem, Propósito & Fé"
 categorySlug: "homem-proposito-e-fe"
 excerpt: "Disciplina é o que mantém a rotina firme quando a motivação some. Veja o que a Bíblia já ensinava sobre cultivar hábitos fortes e duradouros."
-image: "https://planetahomem.com.br/wp-content/uploads/2026/07/disciplina-nao-e-motivacao-o-que-a-biblia-ja-dizia-sobre-habito-5.webp"
+image: "/img/articles/disciplina-nao-e-motivacao-o-que-a-biblia-ja-dizia-sobre-habito-5.webp"
 date: 2026-07-28
 author: "Planeta Homem"
 ---

@@ -3,7 +3,7 @@ title: "Copa do Mundo 2026: Guia Completo para Acompanhar os Jogos nos EUA, Cana
 category: "Esportes"
 categorySlug: "esportes"
 excerpt: "Copa do Mundo 2026: descubra como se organizar para aproveitar cada jogo ao vivo com dicas práticas e essenciais para torcedores."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-53.jpg"
+image: "/img/articles/unnamed-file-53.jpg"
 date: 2025-04-23
 author: "Planeta Homem"
 ---
@@ -73,7 +73,7 @@ Por fim, esteja preparado para agir rapidamente. Os ingressos costumam esgotar e
 
 ## Estratégias para assistir aos jogos ao vivo com amigos
 
-![Estratégias para assistir aos jogos ao vivo com amigos](https://planetahomem.com.br/wp-content/uploads/2025/04/unnamed-file-54.jpg "Estratégias para assistir aos jogos ao vivo com amigos")
+![Estratégias para assistir aos jogos ao vivo com amigos](/img/articles/unnamed-file-54.jpg "Estratégias para assistir aos jogos ao vivo com amigos")
 
 Assistir aos jogos da **Copa do Mundo 2026** com amigos pode transformar a experiência em algo memorável. O entusiasmo compartilhado faz cada gol parecer maior e cada momento mais emocionante. Para garantir que todos desfrutem ao máximo, é essencial ter algumas estratégias em mente.
 

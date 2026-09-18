@@ -3,14 +3,14 @@ title: "Smartphone Xiaomi Redmi Note 14 Midnight Black (Preto) 8GB RAM 256GB ROM
 category: "Celulares"
 categorySlug: "celulares"
 excerpt: "Você está em busca de um smartphone que ofereça uma excelente relação custo-benefício, aliado a um design atrativo e funcionalidades robustas? Se a sua resposta"
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM.jpg"
+image: "/img/articles/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM.jpg"
 date: 2025-04-07
 author: "Planeta Homem"
 ---
 
 ## 
 
-![Smartphone Xiaomi Redmi Note 14 Midnight Black (Preto) 8GB RAM 256GB ROM](https://planetahomem.com.br/wp-content/uploads/2025/04/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM-823x1024.jpg)
+![Smartphone Xiaomi Redmi Note 14 Midnight Black (Preto) 8GB RAM 256GB ROM](/img/articles/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM-823x1024.jpg)
 
 Smartphone Xiaomi Redmi Note 14 Midnight Black (Preto) 8GB RAM 256GB ROM
 
@@ -26,7 +26,7 @@ O design do Xiaomi Redmi Note 14 em sua versão Midnight Black é, sem dúvida, 
 
 A tela é ampla e imersiva, com bordas reduzidas que ajudam a maximizar a experiência de visualização. Com isso, este smartphone não só é agradável aos olhos, mas também confortável de manusear, permitindo uma interação fluida.
 
-![Xiaomi Redmi Note 14 Midnight Black](https://planetahomem.com.br/wp-content/uploads/2025/04/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM.jpg)
+![Xiaomi Redmi Note 14 Midnight Black](/img/articles/Smartphone-Xiaomi-Redmi-Note-14-Midnight-Black-Preto-8GB-RAM-256GB-ROM.jpg)
 
 **Xiaomi Redmi Note 14 Midnight Black – Potência e estilo no seu bolso**
 

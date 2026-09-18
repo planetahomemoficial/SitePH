@@ -28,7 +28,7 @@ Ao entender essas causas e padrões, você começa a construir uma base para adm
 
 ## Técnicas para identificar e eliminar desperdícios de tempo
 
-![Técnicas para identificar e eliminar desperdícios de tempo](https://planetahomem.com.br/wp-content/uploads/2026/07/tecnicas-para-identificar-e-eliminar-desperdicios-de-tempo.webp "Técnicas para identificar e eliminar desperdícios de tempo")
+![Técnicas para identificar e eliminar desperdícios de tempo](/img/articles/tecnicas-para-identificar-e-eliminar-desperdicios-de-tempo.webp "Técnicas para identificar e eliminar desperdícios de tempo")
 
 Para recuperar o controle da rotina, é fundamental aprender **técnicas para identificar e eliminar desperdícios de tempo**. Comece observando como você utiliza suas horas durante o dia, anotando atividades que não contribuem para seus objetivos, como o uso excessivo de redes sociais ou reuniões improdutivas.
 
@@ -66,7 +66,7 @@ Com essas estratégias, você consegue manter o foco no que é essencial e evita
 
 ## Dicas para equilibrar vida pessoal e profissional
 
-![Dicas para equilibrar vida pessoal e profissional](https://planetahomem.com.br/wp-content/uploads/2026/07/dicas-para-equilibrar-vida-pessoal-e-profissional.webp "Dicas para equilibrar vida pessoal e profissional")
+![Dicas para equilibrar vida pessoal e profissional](/img/articles/dicas-para-equilibrar-vida-pessoal-e-profissional.webp "Dicas para equilibrar vida pessoal e profissional")
 
 Equilibrar vida pessoal e profissional é um desafio constante, especialmente quando a rotina está apertada. Uma das primeiras atitudes é estabelecer limites claros entre o trabalho e o tempo pessoal, como definir horários específicos para cada área.
 
