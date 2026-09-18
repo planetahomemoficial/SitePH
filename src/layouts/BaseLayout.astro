@@ -40,6 +40,13 @@ const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").
       document.documentElement.setAttribute("data-theme", t || "light");
     })();
   </script>
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-9CG9DTPQ2R"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+    gtag("js", new Date());
+    gtag("config", "G-9CG9DTPQ2R");
+  </script>
 </head>
 <body>
 
