@@ -2,7 +2,7 @@
   var STORAGE_KEY = "ph-theme";
   var saved = null;
   try { saved = localStorage.getItem(STORAGE_KEY); } catch (e) {}
-  var theme = saved || "dark";
+  var theme = saved || "light";
   document.documentElement.setAttribute("data-theme", theme);
 
   function updateIcon(btn, theme) {

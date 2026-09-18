@@ -1,10 +1,10 @@
 ---
-title: "Como montar um treino de ciclismo para iniciantes [2025]"
+title: "Como montar um treino de ciclismo para iniciantes [2026]"
 category: "Esportes"
 categorySlug: "esportes"
 excerpt: "Treino de ciclismo para iniciantes: descubra dicas práticas para iniciar no ciclismo e transformar sua saúde e performance."
-image: "https://planetahomem.com.br/wp-content/uploads/2025/04/Como-montar-um-treino-de-ciclismo-para-iniciantes.webp"
-date: 2025-04-23
+image: "/img/capas/ciclismo-hero.png"
+date: 2026-09-17
 author: "Planeta Homem"
 ---
 
