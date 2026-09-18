@@ -4,13 +4,23 @@ import BaseLayout from "../../layouts/BaseLayout.astro";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles");
-  return articles.map((article) => ({
+  const sorted = [...articles].sort(
+    (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+  );
+  return sorted.map((article, i) => ({
     params: { slug: article.id },
-    props: { article },
+    props: {
+      article,
+      // Lista está da mais nova para a mais antiga:
+      // "anterior" = publicado antes (mais antigo, próximo índice)
+      // "posterior" = publicado depois (mais novo, índice anterior)
+      prevArticle: sorted[i + 1] ?? null,
+      nextArticle: i > 0 ? sorted[i - 1] : null,
+    },
   }));
 }
 
-const { article } = Astro.props;
+const { article, prevArticle, nextArticle } = Astro.props;
 const { Content } = await render(article);
 
 const dateFormatted = new Intl.DateTimeFormat("pt-BR", {
@@ -38,4 +48,29 @@ const dateFormatted = new Intl.DateTimeFormat("pt-BR", {
   <article class="article-body">
     <Content />
   </article>
+
+  {(prevArticle || nextArticle) && (
+    <div class="wrap">
+      <nav class="post-nav">
+        {prevArticle ? (
+          <a class="post-nav-card" href={`/artigos/${prevArticle.id}/`}>
+            <img src={prevArticle.data.image} alt="" />
+            <div>
+              <span class="post-nav-label">← Artigo anterior</span>
+              <h3>{prevArticle.data.title}</h3>
+            </div>
+          </a>
+        ) : <div class="post-nav-spacer" />}
+        {nextArticle ? (
+          <a class="post-nav-card post-nav-next" href={`/artigos/${nextArticle.id}/`}>
+            <img src={nextArticle.data.image} alt="" />
+            <div>
+              <span class="post-nav-label">Próximo artigo →</span>
+              <h3>{nextArticle.data.title}</h3>
+            </div>
+          </a>
+        ) : <div class="post-nav-spacer" />}
+      </nav>
+    </div>
+  )}
 </BaseLayout>
