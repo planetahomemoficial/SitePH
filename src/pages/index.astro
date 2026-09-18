@@ -12,7 +12,7 @@ function toItem(article: (typeof sorted)[number]) {
   return {
     image: article.data.image,
     title: article.data.title,
-    href: `/artigos/${article.id}/`,
+    href: `/${article.id}/`,
     category: article.data.category,
   };
 }
@@ -26,6 +26,8 @@ const sections = [
   { id: "dinheiro", heading: "Dinheiro, Carreira & IA", slugs: ["dinheiro-carreira-e-ia"] },
   { id: "esportes", heading: "Esportes", slugs: ["esportes", "musculacao"] },
   { id: "fe", heading: "Homem, Propósito & Fé", slugs: ["homem-proposito-e-fe"] },
+  { id: "tecnologia", heading: "Produtos & Tecnologia", slugs: ["eletronicos", "celulares", "acessorios"] },
+  { id: "viagens", heading: "Viagens", slugs: ["viagens"] },
 ];
 
 const sectionsWithArticles = sections
@@ -51,7 +53,7 @@ const heroSlides = sorted.slice(0, 4);
           >
             <div class="hero-caption">
               <span class="tag">{article.data.category}</span>
-              <h1><a href={`/artigos/${article.id}/`}>{article.data.title}</a></h1>
+              <h1><a href={`/${article.id}/`}>{article.data.title}</a></h1>
               <p class="byline">por {article.data.author}</p>
             </div>
           </div>
@@ -77,6 +79,7 @@ const heroSlides = sorted.slice(0, 4);
       heading={s.heading}
       hero={toItem(s.hero)}
       items={s.items.map(toItem)}
+      categoryHref={`/categoria/${s.slugs[0]}/`}
     />
   ))}
 

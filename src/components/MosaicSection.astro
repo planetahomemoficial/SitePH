@@ -10,14 +10,15 @@ interface Props {
   heading: string;
   hero: Item;
   items: Item[];
+  categoryHref?: string;
 }
-const { id, heading, hero, items } = Astro.props;
+const { id, heading, hero, items, categoryHref } = Astro.props;
 ---
 <section class="section" id={id}>
   <div class="wrap">
     <div class="section-head">
       <h2>{heading}</h2>
-      <a href="#">Ver tudo</a>
+      {categoryHref && <a href={categoryHref}>Ver tudo</a>}
     </div>
     <div class="mosaic">
       <a class="mosaic-card mosaic-hero" href={hero.href} style={`background-image:url('${hero.image}')`}>

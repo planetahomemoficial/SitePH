@@ -13,7 +13,10 @@ const navItems = [
   { href: "/#dinheiro", label: "Dinheiro, Carreira & IA" },
   { href: "/#esportes", label: "Esportes" },
   { href: "/#fe", label: "Homem, Propósito & Fé" },
+  { href: "/#tecnologia", label: "Produtos & Tecnologia" },
+  { href: "/#viagens", label: "Viagens" },
 ];
+const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").toString();
 ---
 
 <!doctype html>
@@ -23,7 +26,12 @@ const navItems = [
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{title}</title>
   <meta name="description" content={description} />
-  <meta name="robots" content="noindex, nofollow" />
+  <link rel="canonical" href={canonicalUrl} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta name="twitter:card" content="summary_large_image" />
   <link rel="stylesheet" href="/css/style.css" />
   <script is:inline>
     (function () {
@@ -38,7 +46,7 @@ const navItems = [
 <header class="site-header">
   <div class="wrap">
     <a class="brand" href="/">
-      <img src="https://planetahomem.com.br/wp-content/uploads/2026/06/cropped-logomarca-ph-transparente-1.png" alt="Planeta Homem" />
+      <img src="/img/brand/logo-planeta-homem.png" alt="Planeta Homem" />
     </a>
     <nav class="main-nav">
       <ul>
@@ -59,10 +67,10 @@ const navItems = [
 <footer class="site-footer">
   <div class="wrap footer-grid">
     <ul class="footer-nav">
-      <li><a href="#">Sobre Nós</a></li>
-      <li><a href="#">Contato</a></li>
-      <li><a href="#">Termos de Uso</a></li>
-      <li><a href="#">Política de Privacidade</a></li>
+      <li><a href="/sobre-nos/">Sobre Nós</a></li>
+      <li><a href="/contact/">Contato</a></li>
+      <li><a href="/termos-de-uso/">Termos de Uso</a></li>
+      <li><a href="/politica-de-privacidade-2/">Política de Privacidade</a></li>
     </ul>
     <p class="footer-copy">© 2026 Planeta Homem. Todos os direitos reservados.</p>
   </div>

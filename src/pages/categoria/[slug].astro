@@ -1,0 +1,53 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  const slugs = [...new Set(articles.map((a) => a.data.categorySlug))];
+  return slugs.map((slug) => {
+    const matched = articles
+      .filter((a) => a.data.categorySlug === slug)
+      .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf());
+    return {
+      params: { slug },
+      props: { slug, categoryName: matched[0].data.category, articles: matched },
+    };
+  });
+}
+
+const { categoryName, articles } = Astro.props;
+---
+<BaseLayout title={`${categoryName} — Planeta Homem`} description={`Todos os artigos de ${categoryName} no Planeta Homem.`}>
+  <div class="article-header">
+    <div class="wrap">
+      <span class="tag">{categoryName}</span>
+      <h1>{categoryName}</h1>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="mosaic-grid category-grid">
+      {articles.map((article) => (
+        <a class="mosaic-card" href={`/${article.id}/`} style={`background-image:url('${article.data.image}')`}>
+          <span class="pill">{article.data.category}</span>
+          <h3>{article.data.title}</h3>
+          <p class="by">Planeta Homem</p>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .category-grid {
+    grid-template-columns: repeat(3, 1fr);
+    margin: 24px 0 60px;
+  }
+  @media (max-width: 980px) {
+    .category-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (max-width: 560px) {
+    .category-grid { grid-template-columns: 1fr; }
+  }
+</style>

@@ -1,6 +1,6 @@
 ---
 import { getCollection, render } from "astro:content";
-import BaseLayout from "../../layouts/BaseLayout.astro";
+import BaseLayout from "../layouts/BaseLayout.astro";
 
 export async function getStaticPaths() {
   const articles = await getCollection("articles");
@@ -53,7 +53,7 @@ const dateFormatted = new Intl.DateTimeFormat("pt-BR", {
     <div class="wrap">
       <nav class="post-nav">
         {prevArticle ? (
-          <a class="post-nav-card" href={`/artigos/${prevArticle.id}/`}>
+          <a class="post-nav-card" href={`/${prevArticle.id}/`}>
             <img src={prevArticle.data.image} alt="" />
             <div>
               <span class="post-nav-label">← Artigo anterior</span>
@@ -62,7 +62,7 @@ const dateFormatted = new Intl.DateTimeFormat("pt-BR", {
           </a>
         ) : <div class="post-nav-spacer" />}
         {nextArticle ? (
-          <a class="post-nav-card post-nav-next" href={`/artigos/${nextArticle.id}/`}>
+          <a class="post-nav-card post-nav-next" href={`/${nextArticle.id}/`}>
             <img src={nextArticle.data.image} alt="" />
             <div>
               <span class="post-nav-label">Próximo artigo →</span>

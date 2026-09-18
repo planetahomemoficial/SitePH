@@ -1,0 +1,32 @@
+{
+  "redirects": [
+    { "source": "/category/bem-estar/", "destination": "/categoria/saude-masculina/", "permanent": true },
+    { "source": "/category/estilo/", "destination": "/categoria/estilo-masculino/", "permanent": true },
+    { "source": "/category/fe-e-proposito/", "destination": "/categoria/homem-proposito-e-fe/", "permanent": true },
+    { "source": "/category/dinheiro-carreira-ia/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+    { "source": "/category/casamento-sexualidade/", "destination": "/categoria/casamento-e-sexualidade/", "permanent": true },
+    { "source": "/category/produtos-tecnologia/tecnologia/", "destination": "/categoria/eletronicos/", "permanent": true },
+    { "source": "/category/produtos-tecnologia/celulares/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/category/produtos-tecnologia/acessorios/", "destination": "/categoria/acessorios/", "permanent": true },
+    { "source": "/category/esportes/", "destination": "/categoria/esportes/", "permanent": true },
+    { "source": "/category/musculacao/", "destination": "/categoria/musculacao/", "permanent": true },
+    { "source": "/category/viagens/", "destination": "/categoria/viagens/", "permanent": true },
+
+    { "source": "/tag/xiaomi/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/celular-xiaomi/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/celular-preto/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/android/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/smartphone/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/8gb-ram/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/256gb/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/redmi-note/", "destination": "/categoria/celulares/", "permanent": true },
+    { "source": "/tag/como-ganhar-dinheiro/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+    { "source": "/tag/empreendedorismo/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+    { "source": "/tag/negocios-digitais/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+
+    { "source": "/about-us/", "destination": "/sobre-nos/", "permanent": true },
+    { "source": "/privacy-policy/", "destination": "/politica-de-privacidade-2/", "permanent": true },
+    { "source": "/news-feed/", "destination": "/", "permanent": true },
+    { "source": "/style-guide/", "destination": "/", "permanent": true }
+  ]
+}
