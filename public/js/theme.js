@@ -73,12 +73,39 @@
         navToggle.textContent = isOpen ? "✕" : "☰";
         navToggle.setAttribute("aria-label", isOpen ? "Fechar menu" : "Abrir menu");
       });
-      nav.querySelectorAll("a").forEach(function (link) {
+      nav.querySelectorAll(".nav-dropdown a").forEach(function (link) {
+        link.addEventListener("click", function () {
+          nav.classList.remove("is-open");
+          navToggle.textContent = "☰";
+        });
+      });
+      nav.querySelectorAll(".main-nav > ul > li > a").forEach(function (link) {
         link.addEventListener("click", function () {
           nav.classList.remove("is-open");
           navToggle.textContent = "☰";
         });
       });
     }
+
+    document.querySelectorAll(".nav-group-toggle").forEach(function (toggle) {
+      toggle.addEventListener("click", function (e) {
+        e.stopPropagation();
+        var group = toggle.closest(".nav-group");
+        var isOpen = group.classList.contains("is-open");
+        document.querySelectorAll(".nav-group.is-open").forEach(function (g) {
+          if (g !== group) g.classList.remove("is-open");
+        });
+        group.classList.toggle("is-open", !isOpen);
+        toggle.setAttribute("aria-expanded", String(!isOpen));
+      });
+    });
+
+    document.addEventListener("click", function (e) {
+      if (!e.target.closest(".nav-group")) {
+        document.querySelectorAll(".nav-group.is-open").forEach(function (g) {
+          g.classList.remove("is-open");
+        });
+      }
+    });
   });
 })();

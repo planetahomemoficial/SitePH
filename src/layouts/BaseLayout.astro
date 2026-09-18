@@ -1,10 +1,16 @@
 ---
+import { getCollection } from "astro:content";
+
 interface Props {
   title: string;
   description?: string;
   jsonLd?: object[];
 }
 const { title, description = "Planeta Homem — Força, Honra, Propósito", jsonLd = [] } = Astro.props;
+
+const allArticles = await getCollection("articles");
+const categorySlugsWithContent = new Set(allArticles.map((a) => a.data.categorySlug));
+const hasContent = (slug: string) => categorySlugsWithContent.has(slug);
 
 const siteUrl = "https://planetahomem.com.br";
 const logoUrl = `${siteUrl}/img/brand/logo-planeta-homem.png`;
@@ -24,17 +30,51 @@ const websiteSchema = {
   "url": siteUrl,
 };
 
-const navItems = [
-  { href: "/#saude", label: "Saúde Masculina" },
-  { href: "/#estilo", label: "Estilo Masculino" },
-  { href: "/#casamento", label: "Casamento & Sexualidade" },
-  { href: "/#familia", label: "Paternidade & Família" },
-  { href: "/#dinheiro", label: "Dinheiro, Carreira & IA" },
-  { href: "/#esportes", label: "Esportes" },
-  { href: "/#fe", label: "Homem, Propósito & Fé" },
-  { href: "/#tecnologia", label: "Produtos & Tecnologia" },
-  { href: "/#viagens", label: "Viagens" },
+type NavLink = { label: string; slug: string };
+type NavEntry =
+  | { type: "link"; label: string; slug: string }
+  | { type: "group"; label: string; children: NavLink[] };
+
+const rawNav: NavEntry[] = [
+  { type: "link", label: "Saúde Masculina", slug: "saude-masculina" },
+  { type: "link", label: "Estilo Masculino", slug: "estilo-masculino" },
+  {
+    type: "group",
+    label: "Relacionamentos & Família",
+    children: [
+      { label: "Casamento & Sexualidade", slug: "casamento-e-sexualidade" },
+      { label: "Paternidade & Família", slug: "paternidade-familia" },
+    ],
+  },
+  { type: "link", label: "Dinheiro & Carreira", slug: "dinheiro-carreira-e-ia" },
+  {
+    type: "group",
+    label: "Esportes & Viagens",
+    children: [
+      { label: "Esportes", slug: "esportes" },
+      { label: "Viagens", slug: "viagens" },
+    ],
+  },
+  { type: "link", label: "Propósito & Fé", slug: "homem-proposito-e-fe" },
+  {
+    type: "group",
+    label: "Produtos & Tecnologia",
+    children: [
+      { label: "Eletrônicos", slug: "eletronicos" },
+      { label: "Celulares", slug: "celulares" },
+      { label: "Acessórios", slug: "acessorios" },
+    ],
+  },
 ];
+
+const navEntries = rawNav
+  .map((entry) =>
+    entry.type === "group"
+      ? { ...entry, children: entry.children.filter((c) => hasContent(c.slug)) }
+      : entry
+  )
+  .filter((entry) => (entry.type === "group" ? entry.children.length > 0 : hasContent(entry.slug)));
+
 const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").toString();
 ---
 
@@ -94,8 +134,21 @@ const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").
     </a>
     <nav class="main-nav">
       <ul>
-        {navItems.map((item) => (
-          <li><a href={item.href}>{item.label}</a></li>
+        {navEntries.map((entry) => (
+          entry.type === "link" ? (
+            <li><a href={`/categoria/${entry.slug}/`}>{entry.label}</a></li>
+          ) : (
+            <li class="nav-group">
+              <button class="nav-group-toggle" aria-expanded="false">
+                {entry.label} <span class="nav-caret">▾</span>
+              </button>
+              <ul class="nav-dropdown">
+                {entry.children.map((child) => (
+                  <li><a href={`/categoria/${child.slug}/`}>{child.label}</a></li>
+                ))}
+              </ul>
+            </li>
+          )
         ))}
       </ul>
     </nav>
