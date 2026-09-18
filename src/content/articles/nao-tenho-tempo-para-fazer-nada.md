@@ -3,7 +3,7 @@ title: "Não tenho tempo para fazer nada: como recuperar o controle da rotina"
 category: "Homem, Propósito & Fé"
 categorySlug: "homem-proposito-e-fe"
 excerpt: "Não tenho tempo para fazer nada? Descubra estratégias práticas para retomar o controle da sua rotina sem estresse ou culpa."
-image: "https://planetahomem.com.br/wp-content/uploads/2026/07/nao-tenho-tempo-para-fazer-nada-como-recuperar-o-controle-da-rotina-2.webp"
+image: "/img/capas/rotina-hero.png"
 date: 2026-07-03
 author: "Planeta Homem"
 ---
