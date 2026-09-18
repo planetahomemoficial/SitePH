@@ -37,31 +37,32 @@ type NavEntry =
 
 const rawNav: NavEntry[] = [
   { type: "link", label: "Saúde Masculina", slug: "saude-masculina" },
-  { type: "link", label: "Estilo Masculino", slug: "estilo-masculino" },
   {
     type: "group",
-    label: "Relacionamentos & Família",
+    label: "Estilo Masculino",
     children: [
-      { label: "Casamento & Sexualidade", slug: "casamento-e-sexualidade" },
-      { label: "Paternidade & Família", slug: "paternidade-familia" },
+      { label: "Estilo Masculino", slug: "estilo-masculino" },
+      { label: "Esportes", slug: "esportes" },
+      { label: "Viagens", slug: "viagens" },
     ],
   },
   { type: "link", label: "Dinheiro & Carreira", slug: "dinheiro-carreira-e-ia" },
   {
     type: "group",
-    label: "Esportes & Viagens",
+    label: "Família",
     children: [
-      { label: "Esportes", slug: "esportes" },
-      { label: "Viagens", slug: "viagens" },
+      { label: "Paternidade & Família", slug: "paternidade-familia" },
+      { label: "Casamento & Sexualidade", slug: "casamento-e-sexualidade" },
     ],
   },
   { type: "link", label: "Propósito & Fé", slug: "homem-proposito-e-fe" },
   {
     type: "group",
-    label: "Produtos & Tecnologia",
+    label: "Produtos",
     children: [
       { label: "Eletrônicos", slug: "eletronicos" },
       { label: "Celulares", slug: "celulares" },
+      { label: "Utilidades", slug: "utilidades" },
       { label: "Acessórios", slug: "acessorios" },
     ],
   },
