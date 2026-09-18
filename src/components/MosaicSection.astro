@@ -1,0 +1,39 @@
+---
+interface Item {
+  image: string;
+  title: string;
+  href: string;
+  category: string;
+}
+interface Props {
+  id: string;
+  heading: string;
+  hero: Item;
+  items: Item[];
+}
+const { id, heading, hero, items } = Astro.props;
+---
+<section class="section" id={id}>
+  <div class="wrap">
+    <div class="section-head">
+      <h2>{heading}</h2>
+      <a href="#">Ver tudo</a>
+    </div>
+    <div class="mosaic">
+      <a class="mosaic-card mosaic-hero" href={hero.href} style={`background-image:url('${hero.image}')`}>
+        <span class="pill">{hero.category}</span>
+        <h3>{hero.title}</h3>
+        <p class="by">Planeta Homem</p>
+      </a>
+      <div class="mosaic-grid">
+        {items.map((item) => (
+          <a class="mosaic-card" href={item.href} style={`background-image:url('${item.image}')`}>
+            <span class="pill">{item.category}</span>
+            <h3>{item.title}</h3>
+            <p class="by">Planeta Homem</p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </div>
+</section>

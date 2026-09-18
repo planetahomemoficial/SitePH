@@ -1,0 +1,73 @@
+---
+import { getCollection } from "astro:content";
+import BaseLayout from "../layouts/BaseLayout.astro";
+import MosaicSection from "../components/MosaicSection.astro";
+
+const allArticles = await getCollection("articles");
+const sorted = [...allArticles].sort(
+  (a, b) => b.data.date.valueOf() - a.data.date.valueOf()
+);
+
+function toItem(article: (typeof sorted)[number]) {
+  return {
+    image: article.data.image,
+    title: article.data.title,
+    href: `/artigos/${article.id}/`,
+    category: article.data.category,
+  };
+}
+
+// Pilares principais do menu, mapeados para os slugs de categoria reais do WordPress.
+// Musculação entra dentro de Esportes (mesma regra usada no site real).
+const sections = [
+  { id: "saude", heading: "Saúde Masculina", slugs: ["saude-masculina"] },
+  { id: "estilo", heading: "Estilo Masculino", slugs: ["estilo-masculino"] },
+  { id: "casamento", heading: "Casamento & Sexualidade", slugs: ["casamento-e-sexualidade"] },
+  { id: "dinheiro", heading: "Dinheiro, Carreira & IA", slugs: ["dinheiro-carreira-e-ia"] },
+  { id: "esportes", heading: "Esportes", slugs: ["esportes", "musculacao"] },
+  { id: "fe", heading: "Homem, Propósito & Fé", slugs: ["homem-proposito-e-fe"] },
+];
+
+const sectionsWithArticles = sections
+  .map((s) => {
+    const matched = sorted.filter((a) => s.slugs.includes(a.data.categorySlug));
+    return { ...s, hero: matched[0], items: matched.slice(1, 4) };
+  })
+  .filter((s) => s.hero);
+
+const featured = sorted[0];
+---
+<BaseLayout title="Planeta Homem — Teste de Layout">
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="wrap">
+      <div class="hero-banner" style={`background-image:url('${featured.data.image}')`}>
+        <div class="hero-caption">
+          <span class="tag">{featured.data.category}</span>
+          <h1><a href={`/artigos/${featured.id}/`}>{featured.data.title}</a></h1>
+          <p class="byline">por {featured.data.author}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {sectionsWithArticles.map((s) => (
+    <MosaicSection
+      id={s.id}
+      heading={s.heading}
+      hero={toItem(s.hero)}
+      items={s.items.map(toItem)}
+    />
+  ))}
+
+  <section class="section" id="familia">
+    <div class="wrap">
+      <div class="section-head">
+        <h2>Paternidade &amp; Família</h2>
+      </div>
+      <p style="color:var(--ink-muted); font-size:14px;">Pilar novo da editoria — primeiros artigos em produção.</p>
+    </div>
+  </section>
+
+</BaseLayout>

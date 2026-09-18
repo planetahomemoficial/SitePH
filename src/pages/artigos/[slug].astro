@@ -1,0 +1,41 @@
+---
+import { getCollection, render } from "astro:content";
+import BaseLayout from "../../layouts/BaseLayout.astro";
+
+export async function getStaticPaths() {
+  const articles = await getCollection("articles");
+  return articles.map((article) => ({
+    params: { slug: article.id },
+    props: { article },
+  }));
+}
+
+const { article } = Astro.props;
+const { Content } = await render(article);
+
+const dateFormatted = new Intl.DateTimeFormat("pt-BR", {
+  day: "2-digit",
+  month: "2-digit",
+  year: "numeric",
+  timeZone: "UTC",
+}).format(article.data.date);
+---
+<BaseLayout title={`${article.data.title} — Planeta Homem`} description={article.data.excerpt}>
+  <div class="article-header">
+    <div class="wrap">
+      <span class="tag">{article.data.category}</span>
+      <h1>{article.data.title}</h1>
+      <p class="article-meta">Publicado em {dateFormatted}</p>
+    </div>
+  </div>
+
+  <div class="wrap">
+    <div class="article-cover">
+      <img src={article.data.image} alt={article.data.title} />
+    </div>
+  </div>
+
+  <article class="article-body">
+    <Content />
+  </article>
+</BaseLayout>

@@ -1,0 +1,75 @@
+---
+interface Props {
+  title: string;
+  description?: string;
+}
+const { title, description = "Planeta Homem — Força, Honra, Propósito" } = Astro.props;
+
+const navItems = [
+  { href: "/#saude", label: "Saúde Masculina" },
+  { href: "/#estilo", label: "Estilo Masculino" },
+  { href: "/#casamento", label: "Casamento & Sexualidade" },
+  { href: "/#familia", label: "Paternidade & Família" },
+  { href: "/#dinheiro", label: "Dinheiro, Carreira & IA" },
+  { href: "/#esportes", label: "Esportes" },
+  { href: "/#fe", label: "Homem, Propósito & Fé" },
+];
+---
+
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{title}</title>
+  <meta name="description" content={description} />
+  <meta name="robots" content="noindex, nofollow" />
+  <link rel="stylesheet" href="/css/style.css" />
+  <script is:inline>
+    (function () {
+      var t = null;
+      try { t = localStorage.getItem("ph-theme"); } catch (e) {}
+      document.documentElement.setAttribute("data-theme", t || "dark");
+    })();
+  </script>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="/">
+      <img src="https://planetahomem.com.br/wp-content/uploads/2026/06/cropped-logomarca-ph-transparente-1.png" alt="Planeta Homem" />
+    </a>
+    <nav class="main-nav">
+      <ul>
+        {navItems.map((item) => (
+          <li><a href={item.href}>{item.label}</a></li>
+        ))}
+      </ul>
+    </nav>
+    <button class="theme-toggle" aria-label="Alternar tema">🌙</button>
+    <button class="nav-toggle" aria-label="Abrir menu">☰</button>
+  </div>
+</header>
+
+<main>
+  <slot />
+</main>
+
+<footer class="site-footer">
+  <div class="wrap footer-grid">
+    <ul class="footer-nav">
+      <li><a href="#">Sobre Nós</a></li>
+      <li><a href="#">Contato</a></li>
+      <li><a href="#">Termos de Uso</a></li>
+      <li><a href="#">Política de Privacidade</a></li>
+    </ul>
+    <p class="footer-copy">© 2026 Planeta Homem. Todos os direitos reservados.</p>
+  </div>
+</footer>
+
+<div class="badge-test">Layout de teste</div>
+
+<script is:inline src="/js/theme.js"></script>
+</body>
+</html>
