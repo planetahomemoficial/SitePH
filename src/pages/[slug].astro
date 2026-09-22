@@ -92,7 +92,7 @@ const breadcrumbSchema = {
       <nav class="post-nav">
         {prevArticle ? (
           <a class="post-nav-card" href={`/${prevArticle.id}/`}>
-            <img src={prevArticle.data.image} alt="" />
+            <img src={prevArticle.data.image} alt={prevArticle.data.title} />
             <div>
               <span class="post-nav-label">← Artigo anterior</span>
               <h3>{prevArticle.data.title}</h3>
@@ -101,7 +101,7 @@ const breadcrumbSchema = {
         ) : <div class="post-nav-spacer" />}
         {nextArticle ? (
           <a class="post-nav-card post-nav-next" href={`/${nextArticle.id}/`}>
-            <img src={nextArticle.data.image} alt="" />
+            <img src={nextArticle.data.image} alt={nextArticle.data.title} />
             <div>
               <span class="post-nav-label">Próximo artigo →</span>
               <h3>{nextArticle.data.title}</h3>
