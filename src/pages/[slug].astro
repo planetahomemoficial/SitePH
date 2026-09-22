@@ -79,6 +79,7 @@ const breadcrumbSchema = {
   <div class="wrap">
     <div class="article-cover">
       <img src={article.data.image} alt={article.data.title} />
+      {article.data.imageCredit && <p class="image-credit">Foto: {article.data.imageCredit}</p>}
     </div>
   </div>
 

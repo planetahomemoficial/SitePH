@@ -9,6 +9,7 @@ const articles = defineCollection({
     categorySlug: z.string(),
     excerpt: z.string(),
     image: z.string(),
+    imageCredit: z.string().optional(),
     date: z.coerce.date(),
     author: z.string().default("Planeta Homem"),
   }),
