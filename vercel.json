@@ -17,6 +17,7 @@
     { "source": "/category/relacionamentos/", "destination": "/categoria/casamento-e-sexualidade/", "permanent": true },
     { "source": "/category/tecnologia/", "destination": "/categoria/eletronicos/", "permanent": true },
     { "source": "/category/negocios/", "destination": "/categoria/dinheiro-carreira-e-ia/", "permanent": true },
+    { "source": "/category/cuidados-pessoais/", "destination": "/categoria/estilo-masculino/", "permanent": true },
 
     { "source": "/tag/xiaomi/", "destination": "/categoria/celulares/", "permanent": true },
     { "source": "/tag/celular-xiaomi/", "destination": "/categoria/celulares/", "permanent": true },
