@@ -62,7 +62,7 @@ const breadcrumbSchema = {
   ],
 };
 ---
-<BaseLayout title={`${article.data.title} — Planeta Homem`} description={article.data.excerpt} jsonLd={[articleSchema, breadcrumbSchema]}>
+<BaseLayout title={`${article.data.title} — Planeta Homem`} description={article.data.excerpt} image={article.data.image} jsonLd={[articleSchema, breadcrumbSchema]}>
   <div class="article-header">
     <div class="wrap">
       <nav class="breadcrumbs" aria-label="Trilha de navegação">

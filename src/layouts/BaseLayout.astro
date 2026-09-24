@@ -4,9 +4,16 @@ import { getCollection } from "astro:content";
 interface Props {
   title: string;
   description?: string;
+  image?: string;
   jsonLd?: object[];
 }
-const { title, description = "Planeta Homem — Força, Honra, Propósito", jsonLd = [] } = Astro.props;
+const {
+  title,
+  description = "Planeta Homem — Força, Honra, Propósito",
+  image = "/img/brand/logo-planeta-homem.png",
+  jsonLd = [],
+} = Astro.props;
+const ogImageUrl = image.startsWith("http") ? image : new URL(image, "https://planetahomem.com.br").toString();
 
 const allArticles = await getCollection("articles");
 const categorySlugsWithContent = new Set(allArticles.map((a) => a.data.categorySlug));
@@ -95,7 +102,9 @@ const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").
   <meta property="og:description" content={description} />
   <meta property="og:type" content="website" />
   <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:image" content={ogImageUrl} />
   <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content={ogImageUrl} />
   <script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4915912781607667" crossorigin="anonymous"></script>
   <script type="application/ld+json" set:html={JSON.stringify(organizationSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
