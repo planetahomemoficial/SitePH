@@ -14,6 +14,7 @@ export default async function handler(req, res) {
 
   try {
     const { title, url, image, excerpt } = req.body ?? {};
+    const message = [title, excerpt].filter(Boolean).join("\n\n");
 
     const makeResponse = await fetch(webhookUrl, {
       method: "POST",
@@ -21,7 +22,7 @@ export default async function handler(req, res) {
         "Content-Type": "application/json; charset=utf-8",
         "x-make-apikey": webhookApiKey,
       },
-      body: JSON.stringify({ title, url, image: image ?? null, excerpt: excerpt ?? null }),
+      body: JSON.stringify({ title, url, image: image ?? null, excerpt: excerpt ?? null, message }),
     });
 
     if (!makeResponse.ok) {
