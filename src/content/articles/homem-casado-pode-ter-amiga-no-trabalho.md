@@ -74,11 +74,11 @@ Isso vale nos dois sentidos. **Você também não deve virar a colega o seu desa
 
 ## Festas, confraternizações e viagens: onde a maioria cai
 
-Se existe um ambiente onde o semáforo vira de verde pra vermelho em horas, é este. Festa de fim de ano, confraternização, convenção de vendas, viagem a trabalho, o chamado "happy hour que virou jantar que virou balada". Três coisas se juntam: álcool, distância de casa e um clima de "aqui vale tudo". É o cenário que eu vi, mais de uma vez, terminar mal.
+Se existe um ambiente onde o semáforo vira de verde pra vermelho em horas, é este. Festa de fim de ano, confraternização, convenção de vendas, viagem a trabalho, o chamado "happy hour que virou jantar que virou balada". Três coisas se juntam: o álcool que corre solto à sua volta, a distância de casa e um clima de "aqui vale tudo". É o cenário que eu vi, mais de uma vez, terminar mal.
 
-A defesa que funciona é **decidir antes**, com a cabeça fria, porque às 23h, depois de duas doses, você não vai decidir bem.
+A defesa que funciona é **decidir antes**, com a cabeça fria, porque às 23h, no meio do clima da festa, com todo mundo mais solto ao seu redor, você não vai decidir bem.
 
-- **Defina um limite de bebida antes de chegar.** Sóbrio, a maioria dos erros não acontece.
+- **Fique fora da bebida alcoólica.** O homem cristão não precisa de álcool pra ser bem-vindo na festa, e nesse cenário a bebida é o que derruba a vigilância. A Bíblia é direta: não se embriaguem com vinho, que leva à libertinagem (Efésios 5:18), e o vinho é zombador e a bebida forte provoca brigas (Provérbios 20:1). Pegue um suco, uma água, um refrigerante, e pronto. Ninguém vai te cobrar explicação, e, se cobrarem, "eu não bebo" é uma frase completa. Além do mais, o homem sóbrio é o único que enxerga o amarelo virando vermelho enquanto ainda dá tempo de frear.
 - **Defina a hora de ir embora antes de chegar.** A primeira parte da festa é social. A segunda, geralmente, é onde as decisões ruins aparecem.
 - **Vá com a sua esposa, quando a empresa permitir.** Ela conhece as pessoas, vê o ambiente, e ninguém esquece da família que está do lado.
 - **Avise a ela o plano**: onde vai, a que horas pretende voltar. Não como prestação de contas humilhante, mas como transparência.
@@ -123,7 +123,7 @@ Independentemente da linha que você escolher, estes limites funcionam:
 3. **Mensagens no canal profissional e no horário profissional.** Conversa pessoal por WhatsApp fora do expediente é um sinal amarelo, mesmo que o conteúdo seja inocente.
 4. **Elogio ao que ela fez, nunca à aparência.**
 5. **Atenção a situações a sós** (carona, almoço, sala fechada, viagem): ou evite, ou torne-as transparentes e objetivas, com a esposa sabendo.
-6. **Álcool com limite** em qualquer confraternização.
+6. **Fique fora da bebida alcoólica** em confraternizações e eventos. Sóbrio, você enxerga o amarelo antes de virar vermelho.
 7. **Aliança no dedo e esposa na conversa**, naturalmente. São sinais discretos, mas honestos.
 8. **O teste de ouro:** *"eu diria isso, ou faria isso, se minha esposa estivesse ouvindo ou vendo?"* Se a resposta for não, já é amarelo.
 9. **Peça a alguém pra te perguntar.** Um amigo de confiança que saiba da sua rotina e possa perguntar diretamente "como estão as coisas com essa colega?" vale mais que muita força de vontade.
@@ -184,7 +184,7 @@ Colega respeitada, sim. Parceria profissional de verdade, sim. Intimidade que a 
 - Colega e parceria profissional: sim, é dever. Confidente íntima: é onde começa o risco
 - O semáforo: verde (profissional), amarelo (confidências, elogio pessoal, contato fora de hora), vermelho (ponto sem volta)
 - Três portas inocentes: o elogio pessoal, a opinião sobre o marido dela, o ouvido que escuta tudo "sem julgar"
-- Festas, convenções e viagens são onde a maioria cai: decida antes limite de bebida e horário de saída
+- Festas, convenções e viagens são onde a maioria cai: fique fora da bebida alcoólica e decida antes o horário de saída
 - Duas posturas possíveis: regra rígida (protege, mas limita mulheres e é inviável em certas profissões) ou princípios (mais realista, mas depende de honestidade consigo)
 - Decida com a sua esposa e aplique os limites práticos
 - Percebeu que passou do limite? Fuja, corte cedo, conte à esposa e preste contas
@@ -214,7 +214,7 @@ Não trate como exagero. Ouça o que ela sente, pergunte o que a deixaria mais s
 
 ### E em viagem a trabalho com colegas mulheres?
 
-Mantenha-se em grupo, evite o bar do hotel à noite e as conversas pessoais prolongadas, e ligue pra casa. Decida antes o limite de bebida e a hora de se recolher, porque às 23h, longe de casa, você decide pior do que decidiria de manhã.
+Mantenha-se em grupo, evite o bar do hotel à noite e as conversas pessoais prolongadas, e ligue pra casa. Fique fora da bebida alcoólica e decida antes a hora de se recolher, porque às 23h, longe de casa, você decide pior do que decidiria de manhã.
 
 ### Isso não é machismo? As mulheres perdem oportunidades se os homens se afastam delas.
 
