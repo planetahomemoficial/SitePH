@@ -26,6 +26,8 @@ Erro reconhecido rápido, sem rodeio nem defesa automática, evita que uma discu
 
 É fácil parar de notar o que a esposa faz todo dia só porque virou repetição. **Na prática:** escolha um dia da semana pra, de propósito, agradecer em voz alta por algo específico que ela fez — não um "obrigado" genérico, um "obrigado por ter feito X" nomeado.
 
+Quer entender melhor o que ela carrega e talvez nunca diga? Nosso site irmão, o Amiga Beauty, escreveu para as mulheres sobre [o cansaço de quem cuida de todo mundo e quase nunca é cuidada](https://amigabeauty.com.br/blog/autoestima-quem-cuida-de-voce). Leia com olhos de marido: é uma boa pista do quanto um agradecimento bem dado pode significar.
+
 ### 4. Proteger o casamento das comparações externas
 
 Redes sociais, casais "perfeitos" alheios, comentário de terceiro sobre a vida do casal — nada disso ajuda. **Na prática:** quando perceber que está comparando seu casamento com a versão editada da vida de outro casal, nomeie isso mentalmente como o que é — um recorte, não a realidade — e volte a atenção pro que é real na sua relação.

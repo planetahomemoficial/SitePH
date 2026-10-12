@@ -70,6 +70,8 @@ Se ainda precisar de mais prova, basta ler Provérbios 31: a mulher ali compra t
 
 **Na prática:** defina uma regra pra casa — nada que afete os dois é decidido sem ela. Não como formalidade ("só te avisando"), mas com abertura real pra mudar de ideia. Se a opinião dela nunca muda nada, você não está consultando. Está informando.
 
+E se você quiser enxergar essa parceria pelo lado dela: nosso site irmão, o Amiga Beauty, publicou um texto para mulheres sobre [quem cuida de quem cuida de todo mundo](https://amigabeauty.com.br/blog/autoestima-quem-cuida-de-voce). Muita esposa se reconhece ali, e muito marido descobre o quanto a casa pesa sem ele ter notado.
+
 ## Liderança espiritual: o papel mais esquecido
 
 Josué disse: "eu e a minha casa serviremos ao Senhor" (Josué 24:15). Repare no verbo — *eu*. Ele declarou primeiro, e a casa foi junto. Deuteronômio 6:6-7 reforça: a Palavra deve ser ensinada aos filhos em casa, ao deitar e ao levantar.
