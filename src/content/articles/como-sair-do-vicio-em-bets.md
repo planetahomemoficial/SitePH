@@ -3,7 +3,7 @@ title: "Como sair do vício em bets: passo a passo, fé e apoio"
 category: "Saúde Masculina"
 categorySlug: "saude-masculina"
 excerpt: "Apagar o app é só o começo. O plano em 24 horas, 7 dias e 90 dias pra sair do vício em bets, o que a Bíblia diz sobre a saída e onde achar ajuda gratuita antes que a dívida decida por você."
-image: "/img/capas/como-sair-do-vicio-em-bets-hero.webp"
+image: "/img/capas/como-sair-do-vicio-em-bets-hero-v2.webp"
 date: 2026-10-08
 author: "Planeta Homem"
 ---
