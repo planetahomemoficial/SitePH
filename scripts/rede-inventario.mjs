@@ -6,7 +6,8 @@
 //      node scripts/rede-inventario.mjs --site=invisto       (planetahomem | amigabeauty | invisto)
 //      node scripts/rede-inventario.mjs --titles --out=docs/rede-inventario.md
 //
-// Só LÊ os sites (GET). Não altera nada em nenhum deles.
+// Só LÊ os sites (GET). Não altera nada em nenhum deles. Com --titles, marca páginas vazias
+// (marcador de pauta) e textos curtos, para não linkar para conteúdo que não existe.
 import { writeFileSync } from 'node:fs';
 
 const SITES = {
@@ -108,7 +109,11 @@ async function inventario(chave) {
       const { status, texto } = await get(url);
       const h1 = texto.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i)?.[1];
       const title = texto.match(/<title[^>]*>([\s\S]*?)<\/title>/i)?.[1];
-      return { url, titulo: decodificar(h1 ?? title ?? ''), status: String(status) };
+      const miolo = texto.match(/<article[^>]*>([\s\S]*?)<\/article>/i)?.[1] ?? texto.match(/<main[^>]*>([\s\S]*?)<\/main>/i)?.[1] ?? '';
+      const corpo = decodificar(miolo.replace(/<script[\s\S]*?<\/script>|<style[\s\S]*?<\/style>/gi, ' '));
+      const palavras = corpo ? corpo.split(' ').length : 0;
+      const vazio = /ainda n[aã]o foi escrito/i.test(corpo);
+      return { url, titulo: decodificar(h1 ?? title ?? ''), status: String(status), palavras, vazio };
     });
   }
   return { chave, site, origem: achado.origem, linhas };
@@ -127,8 +132,11 @@ for (const chave of chaves) {
   md += `\n## ${r.site.nome} (${r.linhas.length} artigos)\n\nFonte: ${r.origem}\n\n`;
   if (!r.linhas.length) { md += '_Nenhum artigo encontrado._\n'; continue; }
   if (comTitulos) {
-    md += '| Status | Título | URL |\n|---|---|---|\n';
-    for (const l of r.linhas) md += `| ${l.status} | ${l.titulo.replace(/\|/g, '/')} | ${l.url} |\n`;
+    md += '| Status | Palavras | Título | URL |\n|---|---|---|---|\n';
+    for (const l of r.linhas) md += `| ${l.status} | ${l.vazio ? '**VAZIO (marcador de pauta)**' : l.palavras} | ${l.titulo.replace(/\|/g, '/')} | ${l.url} |\n`;
+    const vazios = r.linhas.filter((l) => l.vazio).length;
+    const curtos = r.linhas.filter((l) => !l.vazio && l.palavras < 300).length;
+    md += `\nAtenção: ${vazios} página(s) vazia(s) e ${curtos} com menos de 300 palavras. Não linke para elas.\n`;
   } else {
     md += r.linhas.map((l) => `- ${l.url}`).join('\n') + '\n';
   }

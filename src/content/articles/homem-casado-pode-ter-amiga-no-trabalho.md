@@ -56,6 +56,8 @@ Elogio ao trabalho é saudável: "gostei muito da sua apresentação". Elogio à
 
 **Na prática:** mantenha o elogio no campo do que ela **fez**, não de como ela **é**. "Ficou excelente o relatório" é elogio. "Hoje você está linda" tem que ficar de fora, com colega casada, e também com a solteira, no seu caso.
 
+Quer ver como esse mesmo caminho começa do outro lado? Nosso site irmão, o Amiga Beauty, publicou um [depoimento adaptado, de uma mulher casada para quem tudo começou com um elogio na igreja](https://amigabeauty.com.br/blog/historia-real-adulterio-comecou-com-elogio). Leia como lição, não como curiosidade.
+
 ### 2. A opinião sobre o marido dela
 
 Esta é a mais traiçoeira. Quando uma colega começa a reclamar do marido — "ele não me ajuda", "ele nem percebe o que eu faço", "a gente não conversa mais" — o impulso masculino é opinar, concordar, mostrar que você entende ou "que ele está errado". É o caminho mais curto pra virar o homem que a entende, em contraste com o marido que não entende.

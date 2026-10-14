@@ -75,11 +75,13 @@ São pistas de onde o encaixe é natural, e não ordens para linkar.
 | Tema | Planeta Homem | Invisto no Meu Filho | Amiga Beauty |
 |---|---|---|---|
 | **Paternidade e vínculo** | Papel do homem no casamento, Como ser um bom marido, Homens fragilizados | `/artigos/paternidade-ativa/`, `/artigos/licenca-paternidade-direitos/`, `/artigos/tempo-em-familia/` | (a criar) |
-| **IA, telas e adolescentes** | Namorar uma IA | `/artigos/ia-tragedia-caso/`, `/artigos/telas-casa/` | (a criar) |
-| **Dinheiro em casa** | Como organizar finanças pessoais, vício em bets | `/artigos/educacao-financeira-em-familia/`, `/artigos/mesada/` | (a criar) |
-| **Cansaço, saúde mental, escuta** | Depressão, Ansiedade em homens, Homens fragilizados | `/artigos/fe-nao-sermao/`, `/artigos/perguntas-para-filhos/` | `/blog/autoestima-quem-cuida-de-voce` (já linkado daqui) |
+| **IA, telas e adolescentes** | Namorar uma IA | `/artigos/telas-casa/` (o `/artigos/ia-tragedia-caso/` trata de suicídio de menor: não linkar sem cuidado, ver regras) | (a criar) |
+| **Dinheiro em casa** | Como organizar finanças pessoais, vício em bets | `/artigos/mesada/` e `/artigos/educacao-financeira-em-familia/` (só quando o assunto for pai ensinando filho; não servem para finanças pessoais do adulto) | (a criar) |
+| **Cansaço, saúde mental, escuta** | Depressão, Ansiedade em homens, Homens fragilizados | `/artigos/perguntas-para-filhos/` (ler antes de usar) | `/blog/autoestima-quem-cuida-de-voce` (já linkado daqui) |
 | **Casamento, intimidade e limites** | Sexo no casamento, Homem casado pode ter amiga no trabalho?, Como ser um bom marido | (indireto) | `/blog/historia-real-adulterio-comecou-com-elogio` (ler antes de decidir se encaixa) |
-| **Fé em casa** | Orar pela esposa, sacerdote do lar | `/artigos/fe-nao-sermao/`, `/artigos/fe-biblia-dinheiro/` | (a criar) |
+| **Fé em casa** | Orar pela esposa, sacerdote do lar | `/artigos/fe-biblia-dinheiro/` | (a criar) |
+
+**Não linkar:** `/artigos/fe-nao-sermao/` e `/artigos/fe-sofrer-sentido/` do Invisto são marcadores de pauta (a página diz que o artigo ainda não foi escrito) e não aparecem no sitemap. Rode o script para ver o estado atual antes de qualquer link.
 
 ### Planejamento de pares
 Quando eu pedir um artigo, sugira também, em uma linha, se vale um **artigo-irmão** em outro site (ex.: o homem com vício em apostas e o artigo do Invisto sobre adolescentes e apostas online, ou a esposa que descobre a dívida). Isso orienta o calendário editorial dos três sites. Não escreva o artigo do outro site: apenas sugira.

@@ -83,6 +83,8 @@ E tem um ponto sério pro **homem casado**. Se você divide com uma "companheira
 
 E vale um alerta de privacidade. Conversas íntimas revelam saúde, família, trabalho, vida sexual. Antes de contar tudo, **saiba o que o aplicativo faz com os seus dados**.
 
+Se você tem filho adolescente em casa, a conversa vale para ele também. Nosso site irmão, o Invisto no Meu Filho, tem um guia sobre [equilíbrio de telas em casa](https://invistonomeufilho.com.br/artigos/telas-casa/), pensado para pais que querem combinar limites em vez de proibir.
+
 ## O que a Bíblia diz sobre isso (e o que ela não diz)
 
 A Bíblia não tem um versículo contra aplicativo de IA. Mas ela fala **muito** sobre o que um homem precisa, e dá pra reconhecer o buraco que o aplicativo tenta tapar.
