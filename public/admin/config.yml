@@ -1,0 +1,90 @@
+# Painel de edição do Planeta Homem (Sveltia CMS).
+# Cada salvamento vira um commit na branch main do repositório e a Vercel publica sozinha.
+backend:
+  name: github
+  repo: planetahomemoficial/SitePH
+  branch: main
+  commit_messages:
+    create: 'Painel: cria artigo "{{slug}}"'
+    update: 'Painel: atualiza artigo "{{slug}}"'
+    delete: 'Painel: remove artigo "{{slug}}"'
+    uploadMedia: 'Painel: envia imagem "{{path}}"'
+    deleteMedia: 'Painel: remove imagem "{{path}}"'
+
+site_url: https://planetahomem.com.br
+display_url: https://planetahomem.com.br
+publish_mode: simple
+
+# Endereços curtos para artigos novos (sem acento, no máximo 60 caracteres).
+slug:
+  encoding: ascii
+  clean_accents: true
+  maxlength: 60
+
+# Capas e imagens: o arquivo vai para public/img/capas e o texto usa /img/capas/arquivo
+media_folder: public/img/capas
+public_folder: /img/capas
+
+collections:
+  - name: artigos
+    label: Artigos
+    label_singular: Artigo
+    folder: src/content/articles
+    extension: md
+    format: yaml-frontmatter
+    create: true
+    delete: false
+    slug: "{{slug}}"
+    identifier_field: title
+    summary: "{{title}} ({{date}})"
+    sortable_fields: [date, title, category]
+    view_groups:
+      - label: Categoria
+        field: category
+    fields:
+      - label: Título
+        name: title
+        widget: string
+        hint: "Aparece no topo do artigo e no Google. Se ficar longo, o Google corta em ~60 caracteres."
+      - label: Categoria
+        name: category
+        widget: select
+        options:
+          - "Saúde Masculina"
+          - "Casamento & Sexualidade"
+          - "Homem, Propósito & Fé"
+          - "Dinheiro, Carreira & IA"
+          - "Estilo Masculino"
+          - "Esportes"
+          - "Musculação"
+          - "Viagens"
+          - "Eletrônicos"
+          - "Celulares"
+          - "Acessórios"
+      - label: Resumo
+        name: excerpt
+        widget: text
+        hint: "Uma ou duas frases. Aparece nas listas, no Google e na prévia do Facebook."
+      - label: Capa
+        name: image
+        widget: image
+        hint: "Imagem 16:9 (ex.: 1672x941), de preferência .webp e até ~300 KB."
+      - label: Crédito da imagem
+        name: imageCredit
+        widget: string
+        required: false
+        hint: "Só se a imagem tiver autor ou fonte a creditar (foto de imprensa, por exemplo)."
+      - label: Data de publicação
+        name: date
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
+      - label: Autor
+        name: author
+        widget: string
+        default: "Planeta Homem"
+      - label: Texto
+        name: body
+        widget: markdown
+        hint: "Use ## para subtítulos, ** ** para negrito e > para caixas de destaque."

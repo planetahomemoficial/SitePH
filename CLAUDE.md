@@ -21,6 +21,10 @@ Consult these guides before working on related tasks:
 - [Adding styles or using Tailwind](https://docs.astro.build/en/guides/styling/)
 - [Supporting multiple languages](https://docs.astro.build/en/guides/internationalization/)
 
+## Painel de edição (/admin)
+
+O usuário edita artigos pelo painel Sveltia CMS em `https://planetahomem.com.br/admin/` (arquivos em `public/admin/`; guia em `docs/painel-admin.md`). Cada salvamento é um commit na `main` e a Vercel publica. As categorias ficam em um só lugar, `src/content.config.ts` (o `categorySlug` é derivado do nome da categoria); uma categoria nova exige alterar também `public/admin/config.yml`. Ao atualizar a versão do Sveltia, troque a versão e o hash `integrity` juntos em `public/admin/index.html`. Não coloque link para `/admin` no site.
+
 ## Rede de sites (leia antes de escrever ou editar qualquer artigo)
 
 Sou dono de três sites que se complementam. Quando você escrever, revisar ou planejar um artigo, **pense também em quem, nos outros dois sites, vive o outro lado do mesmo assunto**. O objetivo é que o leitor encontre, naturalmente, o que o outro site tem de útil para a situação dele. O objetivo **não** é fabricar links.
