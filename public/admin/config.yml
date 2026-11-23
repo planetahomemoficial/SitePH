@@ -4,6 +4,9 @@ backend:
   name: github
   repo: planetahomemoficial/SitePH
   branch: main
+  # Login próprio (Google), em vez do serviço padrão da Netlify. Ver api/ e docs/painel-admin.md.
+  base_url: https://planetahomem.com.br
+  auth_endpoint: api/auth
   commit_messages:
     create: 'Painel: cria artigo "{{slug}}"'
     update: 'Painel: atualiza artigo "{{slug}}"'

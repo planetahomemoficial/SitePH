@@ -6,6 +6,8 @@
   <meta name="robots" content="noindex, nofollow">
   <title>Painel do Planeta Homem</title>
   <link href="/admin/config.yml" type="text/yaml" rel="cms-config-url">
+  <!-- O painel só inicia depois que /api/session confirma o login com Google. Sem sessão, a pessoa vai para /api/login. -->
+  <script>window.CMS_MANUAL_INIT = true;</script>
 </head>
 <body>
   <!-- Sveltia CMS fixado na versão 0.245.1, com verificação de integridade. Para atualizar, troque a versão E o hash. -->
@@ -13,5 +15,18 @@
     src="https://unpkg.com/@sveltia/cms@0.245.1/dist/sveltia-cms.js"
     integrity="sha384-WtLM0kE6Istn0n75BQVe+QHHleDS926pjdktjJ16OITlVqpJFAiD69ErfPcwrBvB"
     crossorigin="anonymous"></script>
+  <script>
+    // 401 = login do Google configurado, mas sem sessão: vai para a tela do Google.
+    // Qualquer outra resposta (200, login ainda não configurado, rede fora) abre o painel normalmente.
+    // Isso é seguro: o token do GitHub só sai de /api/auth para quem tem sessão, e o acesso manual por
+    // token de acesso continua disponível como plano B.
+    function iniciar() { (window.initCMS || window.CMS.init)(); }
+    fetch('/api/session', { cache: 'no-store', credentials: 'same-origin' })
+      .then(function (resposta) {
+        if (resposta.status === 401) location.replace('/api/login');
+        else iniciar();
+      })
+      .catch(iniciar);
+  </script>
 </body>
 </html>
