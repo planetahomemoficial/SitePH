@@ -31,6 +31,11 @@ const articles = defineCollection({
       imageCredit: z.string().optional(),
       date: z.coerce.date(),
       author: z.string().default("Planeta Homem"),
+      // Série "Homens que marcaram a história" (ver src/lib/serie.ts)
+      serie: z.string().optional(),
+      personagem: z.string().optional(),
+      frase: z.string().optional(),
+      legado: z.enum(["positivo", "negativo", "misto"]).optional(),
     })
     .transform((dados) => ({ ...dados, categorySlug: CATEGORIAS[dados.category] })),
 });

@@ -1,0 +1,24 @@
+---
+import { LEGADO_ROTULO, type SerieItem } from "../lib/serie";
+
+interface Props {
+  items: SerieItem[];
+}
+const { items } = Astro.props;
+---
+<div class="serie-cards">
+  {items.map((item) => (
+    <a class="serie-card" href={item.href} style={`background-image:url('${item.image}')`}>
+      {item.legado && (
+        <span class={`serie-selo serie-selo--${item.legado}`}>{LEGADO_ROTULO[item.legado]}</span>
+      )}
+      <h3>{item.personagem}</h3>
+      <p>{item.frase}</p>
+    </a>
+  ))}
+  <div class="serie-card serie-card--breve">
+    <span class="serie-selo">Em breve</span>
+    <h3>Mais personagens</h3>
+    <p>A série vai crescer. Os próximos entram aqui assim que forem publicados.</p>
+  </div>
+</div>

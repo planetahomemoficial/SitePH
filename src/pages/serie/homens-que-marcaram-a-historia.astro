@@ -1,0 +1,62 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import SerieCards from "../../components/SerieCards.astro";
+import { SERIE, getSerieItems } from "../../lib/serie";
+
+const items = await getSerieItems();
+const siteUrl = "https://planetahomem.com.br";
+
+const jsonLd = [
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": SERIE.nome,
+    "description": SERIE.descricao,
+    "url": `${siteUrl}${SERIE.href}`,
+    "mainEntity": {
+      "@type": "ItemList",
+      "itemListElement": items.map((item, i) => ({
+        "@type": "ListItem",
+        "position": i + 1,
+        "name": item.titulo,
+        "url": `${siteUrl}${item.href}`,
+      })),
+    },
+  },
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Início", "item": `${siteUrl}/` },
+      { "@type": "ListItem", "position": 2, "name": SERIE.nome, "item": `${siteUrl}${SERIE.href}` },
+    ],
+  },
+];
+---
+<BaseLayout
+  title={`${SERIE.nome} | Série especial | Planeta Homem`}
+  description={SERIE.descricao}
+  jsonLd={jsonLd}
+>
+  <section class="section serie-pagina">
+    <div class="wrap">
+      <nav class="breadcrumb" aria-label="Você está em">
+        <a href="/">Início</a> <span>/</span> {SERIE.nome}
+      </nav>
+      <div class="serie-hero">
+        <div>
+          <span class="serie-badge">Série especial</span>
+          <h1>{SERIE.nome}</h1>
+          <p class="serie-lead">{SERIE.subtitulo}</p>
+          <p class="serie-texto">
+            Homens que construíram e homens que destruíram. Contamos cada história sem romantizar
+            ninguém, com fontes, e terminamos sempre com a pergunta que importa: o que isso ensina ao
+            homem de hoje?
+          </p>
+        </div>
+        <img class="serie-logo" src="/img/brand/logo-ph-horizontal-dourado.png" alt="Planeta Homem: força, honra, propósito" width="900" height="348" loading="lazy" />
+      </div>
+      <SerieCards items={items} />
+    </div>
+  </section>
+</BaseLayout>

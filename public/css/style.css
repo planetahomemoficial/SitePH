@@ -782,3 +782,135 @@ a { color: inherit; text-decoration: none; }
   .post-nav { grid-template-columns: 1fr; }
   .post-nav-next { flex-direction: row; text-align: left; }
 }
+
+/* ---------- Série "Homens que marcaram a história" ---------- */
+
+.serie-bloco { background: linear-gradient(180deg, rgba(201,162,74,.10), transparent 60%); }
+
+.serie-banner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 20px;
+  flex-wrap: wrap;
+  padding: 28px 30px;
+  margin-bottom: 18px;
+  border: 1px solid var(--gold-strong);
+  border-radius: var(--radius);
+  background: radial-gradient(120% 140% at 0% 0%, #2a1d0c 0%, #120d07 55%, #0b0b0c 100%);
+}
+
+.serie-banner h2,
+.serie-hero h1 {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: clamp(26px, 4.4vw, 44px);
+  line-height: 1.08;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  margin: 10px 0 8px;
+  color: #f4e7c4;
+}
+
+.serie-banner p { margin: 0; color: #d8c89a; font-style: italic; font-size: 16px; }
+
+.serie-badge {
+  display: inline-block;
+  padding: 5px 12px;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #1a1206;
+  background: linear-gradient(180deg, #d9b45a, #b9892f);
+  border-radius: 2px;
+}
+
+.serie-botao {
+  padding: 11px 20px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: #e8cf8d;
+  border: 1px solid var(--gold-strong);
+  border-radius: var(--radius);
+}
+.serie-botao:hover { background: rgba(201,162,74,.14); color: #fff; }
+
+.serie-cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+
+.serie-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 300px;
+  padding: 18px;
+  border-radius: var(--radius);
+  background-color: #17120a;
+  background-size: cover;
+  background-position: center top;
+  overflow: hidden;
+  isolation: isolate;
+}
+
+.serie-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  background: linear-gradient(180deg, rgba(0,0,0,.05) 25%, rgba(0,0,0,.9) 100%);
+}
+
+.serie-card h3 { margin: 6px 0 6px; font-size: 20px; line-height: 1.15; color: #fff; }
+.serie-card p { margin: 0; font-size: 13px; line-height: 1.4; color: #e2dac4; }
+.serie-card::before { content: ""; position: absolute; left: 18px; bottom: 0; width: 44px; height: 3px; background: var(--gold-strong); }
+
+.serie-selo {
+  align-self: flex-start;
+  margin-bottom: 4px;
+  padding: 4px 9px;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  text-transform: uppercase;
+  color: #1a1206;
+  background: #d9b45a;
+  border-radius: 2px;
+}
+.serie-selo--negativo { background: #b3382f; color: #fff; }
+.serie-selo--misto { background: #8d8676; color: #fff; }
+
+.serie-card--breve {
+  justify-content: center;
+  background: repeating-linear-gradient(135deg, #15110a, #15110a 10px, #1a150c 10px, #1a150c 20px);
+  border: 1px dashed var(--gold-strong);
+}
+.serie-card--breve::before, .serie-card--breve::after { display: none; }
+.serie-card--breve .serie-selo { background: transparent; color: var(--gold); border: 1px solid var(--gold-strong); }
+
+.serie-hero {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 28px;
+  flex-wrap: wrap;
+  margin: 14px 0 26px;
+  padding: 30px;
+  border: 1px solid var(--gold-strong);
+  border-radius: var(--radius);
+  background: radial-gradient(120% 140% at 0% 0%, #2a1d0c 0%, #120d07 55%, #0b0b0c 100%);
+}
+.serie-hero > div { flex: 1 1 320px; min-width: 0; }
+.serie-lead { margin: 0 0 12px; color: #d8c89a; font-style: italic; font-size: 18px; }
+.serie-texto { margin: 0; color: #cfc6ae; max-width: 60ch; line-height: 1.6; }
+.serie-logo { width: min(300px, 70%); height: auto; }
+
+@media (max-width: 560px) {
+  .serie-banner, .serie-hero { padding: 20px 16px; }
+  .serie-card { min-height: 240px; }
+}

@@ -87,6 +87,36 @@ collections:
         name: author
         widget: string
         default: "Planeta Homem"
+      - label: Série "Homens que marcaram a história"
+        name: serie
+        widget: select
+        required: false
+        options:
+          - label: "Faz parte da série"
+            value: "homens-que-marcaram-a-historia"
+        hint: "Só para artigos de personagens da série. Deixe vazio nos demais."
+      - label: Personagem (série)
+        name: personagem
+        widget: string
+        required: false
+        hint: "Nome que aparece no cartão da série. Ex.: Joseph Stalin."
+      - label: Frase do cartão (série)
+        name: frase
+        widget: string
+        required: false
+        hint: "Uma frase curta sobre o personagem. Ex.: O homem que transformou o poder em terror."
+      - label: Legado (série)
+        name: legado
+        widget: select
+        required: false
+        options:
+          - label: "Legado positivo"
+            value: "positivo"
+          - label: "Legado negativo"
+            value: "negativo"
+          - label: "Legado misto (construiu e destruiu)"
+            value: "misto"
+        hint: "Selo no cartão. Use 'misto' quando a história tiver os dois lados."
       - label: Texto
         name: body
         widget: markdown

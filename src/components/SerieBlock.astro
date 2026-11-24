@@ -1,0 +1,22 @@
+---
+import SerieCards from "./SerieCards.astro";
+import { SERIE, type SerieItem } from "../lib/serie";
+
+interface Props {
+  items: SerieItem[];
+}
+const { items } = Astro.props;
+---
+<section class="section serie-bloco" id="serie">
+  <div class="wrap">
+    <div class="serie-banner">
+      <div class="serie-banner-texto">
+        <span class="serie-badge">Série especial</span>
+        <h2>{SERIE.nome}</h2>
+        <p>{SERIE.subtitulo}</p>
+      </div>
+      <a class="serie-botao" href={SERIE.href}>Ver todos os personagens</a>
+    </div>
+    <SerieCards items={items} />
+  </div>
+</section>
