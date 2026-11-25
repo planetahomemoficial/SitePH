@@ -1,5 +1,6 @@
 {
   "redirects": [
+    { "source": "/categoria/homens-que-marcaram-a-historia/", "destination": "/serie/homens-que-marcaram-a-historia/", "permanent": true },
     { "source": "/category/bem-estar/", "destination": "/categoria/saude-masculina/", "permanent": true },
     { "source": "/category/estilo/", "destination": "/categoria/estilo-masculino/", "permanent": true },
     { "source": "/category/fe-e-proposito/", "destination": "/categoria/homem-proposito-e-fe/", "permanent": true },

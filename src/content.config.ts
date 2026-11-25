@@ -12,6 +12,7 @@ const CATEGORIAS: Record<string, string> = {
   "Esportes": "esportes",
   "Estilo Masculino": "estilo-masculino",
   "Homem, Propósito & Fé": "homem-proposito-e-fe",
+  "Homens que marcaram a história": "homens-que-marcaram-a-historia",
   "Musculação": "musculacao",
   "Saúde Masculina": "saude-masculina",
   "Viagens": "viagens",
@@ -31,8 +32,7 @@ const articles = defineCollection({
       imageCredit: z.string().optional(),
       date: z.coerce.date(),
       author: z.string().default("Planeta Homem"),
-      // Série "Homens que marcaram a história" (ver src/lib/serie.ts)
-      serie: z.string().optional(),
+      // Campos do cartão da série "Homens que marcaram a história" (ver src/lib/serie.ts)
       personagem: z.string().optional(),
       frase: z.string().optional(),
       legado: z.enum(["positivo", "negativo", "misto"]).optional(),

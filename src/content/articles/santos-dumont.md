@@ -1,12 +1,11 @@
 ---
 title: "Santos Dumont: o brasileiro que sonhou em voar (e o que ele ensina ao homem de hoje)"
-category: "Homem, Propósito & Fé"
+category: "Homens que marcaram a história"
 excerpt: "Um menino de fazenda que desmontava máquinas, um inventor que contornou a Torre Eiffel e levantou voo diante de Paris. E um homem que, no fim, não suportou ver a sua invenção virar arma. A história completa de Santos Dumont, sem lenda e sem silêncio."
 image: "/img/capas/santos-dumont-hero.webp"
 imageCredit: "Imagem ilustrativa gerada por inteligência artificial. Não é uma fotografia real. As fotos históricas do artigo são de domínio público."
 date: 2026-11-24
 author: "Planeta Homem"
-serie: "homens-que-marcaram-a-historia"
 personagem: "Santos Dumont"
 frase: "O brasileiro que ajudou a humanidade a conquistar os céus"
 legado: "positivo"

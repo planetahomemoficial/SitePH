@@ -1,5 +1,6 @@
 ---
 import { getCollection } from "astro:content";
+import { SERIE, categoriaHref } from "../lib/serie";
 
 interface Props {
   title: string;
@@ -63,6 +64,7 @@ const rawNav: NavEntry[] = [
     ],
   },
   { type: "link", label: "Propósito & Fé", slug: "homem-proposito-e-fe" },
+  { type: "link", label: "Homens da História", slug: SERIE.slug },
   {
     type: "group",
     label: "Produtos",
@@ -151,7 +153,7 @@ const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").
       <ul>
         {navEntries.map((entry) => (
           entry.type === "link" ? (
-            <li><a href={`/categoria/${entry.slug}/`}>{entry.label}</a></li>
+            <li><a href={categoriaHref(entry.slug)}>{entry.label}</a></li>
           ) : (
             <li class="nav-group">
               <button class="nav-group-toggle" aria-expanded="false">
@@ -159,7 +161,7 @@ const canonicalUrl = new URL(Astro.url.pathname, "https://planetahomem.com.br").
               </button>
               <ul class="nav-dropdown">
                 {entry.children.map((child) => (
-                  <li><a href={`/categoria/${child.slug}/`}>{child.label}</a></li>
+                  <li><a href={categoriaHref(child.slug)}>{child.label}</a></li>
                 ))}
               </ul>
             </li>

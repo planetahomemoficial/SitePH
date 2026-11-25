@@ -1,11 +1,9 @@
 ---
 title: "Quem foi Stalin? O homem que transformou o poder em terror (e o que isso ensina hoje)"
-category: "Homem, Propósito & Fé"
-categorySlug: "homem-proposito-e-fe"
+category: "Homens que marcaram a história"
 excerpt: "Um seminarista que virou um dos maiores perseguidores de cristãos do século XX, um aliado de Hitler que virou herói de guerra, e um censo que foi escondido porque o povo respondeu a verdade. Stalin é um dos capítulos mais vergonhosos da história mundial, e que nunca mais podemos deixar acontecer de novo."
 image: "/img/capas/quem-foi-stalin-hero.webp"
 imageCredit: "Imagem ilustrativa gerada por inteligência artificial. Não é uma fotografia real."
-serie: "homens-que-marcaram-a-historia"
 personagem: "Joseph Stalin"
 frase: "O homem que transformou o poder em terror"
 legado: "negativo"

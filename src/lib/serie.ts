@@ -1,7 +1,7 @@
 import { getCollection } from "astro:content";
 
-// Série "Homens que marcaram a história". Um artigo entra na série quando tem
-// `serie: homens-que-marcaram-a-historia` no cabeçalho (o painel tem esse campo).
+// Série "Homens que marcaram a história". Um artigo entra na série quando a categoria dele é
+// "Homens que marcaram a história" (escolhida no painel). Ela tem página própria em /serie/.
 export const SERIE = {
   slug: "homens-que-marcaram-a-historia",
   nome: "Homens que marcaram a história",
@@ -9,7 +9,11 @@ export const SERIE = {
   descricao:
     "Série especial do Planeta Homem: homens que construíram e homens que destruíram, contados sem romantizar ninguém, com fontes e com a lição para o homem de hoje.",
   href: "/serie/homens-que-marcaram-a-historia/",
+  categoria: "Homens que marcaram a história",
 };
+
+/** Endereço da categoria: a série tem página própria em /serie/, as demais ficam em /categoria/. */
+export const categoriaHref = (slug: string) => (slug === SERIE.slug ? SERIE.href : `/categoria/${slug}/`);
 
 export const LEGADO_ROTULO: Record<string, string> = {
   positivo: "Legado positivo",
@@ -30,7 +34,7 @@ export interface SerieItem {
 export async function getSerieItems(): Promise<SerieItem[]> {
   const todos = await getCollection("articles");
   return todos
-    .filter((a) => a.data.serie === SERIE.slug)
+    .filter((a) => a.data.categorySlug === SERIE.slug)
     .sort((a, b) => b.data.date.valueOf() - a.data.date.valueOf())
     .map((a) => ({
       href: `/${a.id}/`,

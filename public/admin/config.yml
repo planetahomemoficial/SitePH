@@ -56,6 +56,7 @@ collections:
           - "Saúde Masculina"
           - "Casamento & Sexualidade"
           - "Homem, Propósito & Fé"
+          - "Homens que marcaram a história"
           - "Dinheiro, Carreira & IA"
           - "Estilo Masculino"
           - "Esportes"
@@ -87,15 +88,7 @@ collections:
         name: author
         widget: string
         default: "Planeta Homem"
-      - label: Série "Homens que marcaram a história"
-        name: serie
-        widget: select
-        required: false
-        options:
-          - label: "Faz parte da série"
-            value: "homens-que-marcaram-a-historia"
-        hint: "Só para artigos de personagens da série. Deixe vazio nos demais."
-      - label: Personagem (série)
+      - label: Personagem (só na série)
         name: personagem
         widget: string
         required: false
