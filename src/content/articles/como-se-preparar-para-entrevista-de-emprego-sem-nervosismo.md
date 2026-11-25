@@ -1,150 +1,203 @@
 ---
 title: "Como se preparar para entrevista de emprego sem nervosismo"
 category: "Dinheiro, Carreira & IA"
-categorySlug: "dinheiro-carreira-e-ia"
-excerpt: "Como se preparar para entrevista é fundamental para garantir sua colocação. Dicas práticas para destacar suas habilidades e se sair bem."
-image: "/img/articles/unnamed-file-2.jpg"
-date: 2025-05-03
+excerpt: "Nervosismo em entrevista não some com coragem, some com preparo. O passo a passo de homem pra homem: pesquisar a empresa, ensaiar em voz alta, usar o método STAR e entrar na sala com a cabeça no lugar."
+image: "/img/capas/como-se-preparar-para-entrevista-hero.webp"
+imageCredit: "Imagem ilustrativa gerada por inteligência artificial. Não é uma fotografia real."
+date: 2026-11-25
 author: "Planeta Homem"
 ---
 
-**Como se preparar para entrevista** envolve pesquisar sobre a empresa, praticar respostas para perguntas comuns e manter uma linguagem corporal confiante, garantindo que você se destaque no processo seletivo.
+Você marcou a entrevista. Ficou feliz por uns cinco minutos. Depois bateu aquela coisa na barriga: *"e se eu travar?"*, *"e se perguntarem o que eu não sei?"*, *"e se eu falar besteira?"*
 
-Preparar-se para uma entrevista é mais do que apenas revisar seu currículo. É um passo crucial que pode determinar sua trajetória profissional. Ao se perguntar **como se preparar para entrevista**, você está lidando com a primeira impressão que deixará e a chance de mostrar ao recrutador quem você realmente é.
+Calma. Quase todo homem passa por isso, inclusive o que parece tranquilo na sala. A diferença entre quem trava e quem se sai bem raramente é talento. É **preparo**.
 
-Neste post, vamos discutir as etapas necessárias para se preparar corretamente, desde a pesquisa sobre a empresa até as dicas práticas para conquistar a confiança na hora H.
+> **Em uma frase:** nervosismo vem do desconhecido. Quanto menos surpresa a entrevista tiver pra você, menos espaço sobra pro medo. Seu trabalho nos dias anteriores é transformar o desconhecido em coisa que você já ensaiou.
 
-## A importância de se preparar para entrevista
+Vamos por partes, na ordem em que você deve fazer.
 
-Preparar-se para uma entrevista é um dos passos mais cruciais na busca por um novo emprego. Essa preparação não é apenas sobre rever seu currículo; trata-se de entender o que você deseja e como apresentar suas habilidades de forma convincente. Se você entrar em uma entrevista sem planejamento, pode acabar transmitindo insegurança e falta de interesse. Por isso, comece revisando suas experiências e conquistas anteriores, e pense em como elas se relacionam com a posição para a qual está se candidatando.
+## 1. Entenda o que a entrevista realmente é
 
-### Conheça a empresa e o cargo
+Muito homem encara a entrevista como um interrogatório, em que ele é o réu. Não é. É uma **conversa para saber se existe encaixe**: a empresa tem um problema a resolver e quer saber se você pode ser a solução. E você também está avaliando se aquele lugar serve pra você.
 
-Um aspecto fundamental da preparação é pesquisar sobre a empresa e entender a descrição do cargo. Isso demonstra seu interesse e compromisso. Aqui estão algumas questões a considerar:
+Quando você troca "preciso ser aprovado" por "vou descobrir se isso encaixa", o peso no peito diminui. Não some, mas diminui.
 
-- Qual é a missão e os valores da empresa?
-- Quem são os concorrentes e quais tendências afetam o setor?
-- Quais são os principais desafios enfrentados pelo time ou pela empresa?
+## 2. Pesquise a empresa (de verdade, não só o site)
 
-Essas informações podem ajudá-lo a personalizar suas respostas e a efetivamente comunicar como suas habilidades podem resolver os problemas da empresa.
+Recrutador percebe em dois minutos quem estudou e quem chegou de paraquedas. Reserve uma hora e descubra:
 
-### Simule a entrevista
+- **O que a empresa vende ou faz** e para quem.
+- **Notícias recentes**: lançou algo, abriu filial, passou por crise, ganhou prêmio?
+- **Quem são os concorrentes** e o que a empresa tem de diferente.
+- **A cultura**: dá pra ler muito nas redes sociais e no LinkedIn da própria empresa, sobre como ela fala e o que comemora.
+- **Quem vai te entrevistar**: se souber o nome, veja o perfil profissional da pessoa.
 
-Outra prática recomendada é simular a entrevista. Você pode fazer isso com um amigo ou mentor, ou até mesmo na frente do espelho. Prepare-se para perguntas comuns que são frequentemente feitas, como:
+Anote tudo em meia página. Essa folha é a sua cola de véspera.
 
-- Fale sobre uma realização importante.
-- Como você lidou com um desafio no trabalho?
-- Por que você deseja trabalhar nesta empresa?
-- Por que deveríamos contratar você?
-- Como se sente em situações onde você fica sob pressão?
+> **Frase pronta:** *"Pesquisei a empresa e o que mais me chamou atenção foi [ponto concreto]. Vejo como posso contribuir com isso a partir da minha experiência em [sua área]."*
 
-Isso não apenas aumenta sua confiança, mas também ajuda a refinar suas respostas e a melhorar sua comunicação verbal.
+## 3. Decifre a vaga
 
-## Pesquisa sobre a empresa e cargo desejado
+Pegue a descrição do cargo e faça uma tabela simples, com duas colunas:
 
-Quando você se prepara para uma entrevista, uma das etapas mais críticas é a **pesquisa sobre a empresa e o cargo desejado**. Entender profundamente a organização e a posição faz uma grande diferença na sua apresentação e nas respostas que você dará.
+| O que a vaga pede | Onde eu já fiz isso |
+|---|---|
+| Liderar equipe | Coordenei três pessoas no projeto X |
+| Atendimento ao cliente | Resolvi o problema Y de um cliente difícil |
 
-Comece visitando o site da empresa e explore suas seções de ‘Sobre nós’, ‘Nossos Valores’ e ‘Notícias’. Isso ajudará você a descobrir a cultura da empresa e os objetivos que eles priorizam.
+Cada linha vazia é um ponto fraco que você precisa se preparar para explicar. Cada linha cheia é uma história pronta para contar. **Entrevista boa é feita de histórias concretas, não de adjetivos.**
 
-### Questões-chave para pesquisa
+## 4. Prepare as perguntas que sempre aparecem
 
-Enquanto faz sua pesquisa, aqui estão algumas questões a serem consideradas para se preparar melhor:
+Algumas perguntas aparecem em quase toda entrevista. Escreva a sua resposta de cada uma. Escrever importa: o que está só na cabeça sai bagunçado na boca.
 
-- **Qual é a missão da empresa?** Isso pode ajudá-lo a alinhar suas próprias metas pessoais com o que eles buscam.
-- **Quais são os desafios atuais da indústria?** Saber sobre as tendências do setor pode ser um ponto de conversa durante a entrevista.
-- **O que você sabe sobre o time ou líder que você irá trabalhar?** Conectar seu perfil às expectativas deles pode impressionar.
+### "Fale sobre você"
 
-Além de visitar o site, explore também as redes sociais da empresa. O LinkedIn, por exemplo, pode oferecer insights sobre quem são as pessoas envolvidas, a cultura e até algumas publicações recentes que demonstram a visão da empresa.
+Não conte a vida inteira. Use três passos: **quem você é profissionalmente hoje, o que já fez de mais relevante, por que quer esta vaga.** Meio minuto a um minuto, no máximo.
 
-### Entenda o cargo
+### "Quais são seus pontos fortes e fracos?"
 
-Compreender as especificidades do cargo é igualmente importante. Leia a descrição do trabalho cuidadosamente e faça uma lista das habilidades e experiências requeridas. Desta forma, você pode preparar exemplos de como você atende a esses requisitos. Algumas dicas práticas incluem:
+Escolha pontos fortes que a vaga realmente pede e prove com um exemplo. Na fraqueza, seja honesto, mas mostre o que você faz para melhorar. Evite o clichê *"sou perfeccionista demais"*, o recrutador já ouviu mil vezes.
 
-- Identificar **palavras-chave** na descrição do trabalho e se preparar para discutir como você se relaciona com cada uma delas.
-- Juntar **exemplos concretos** de experiências passadas que demonstrem suas competências relevantes.
-- Refletir sobre como suas metas se alinham com o que o cargo oferece.
+> **Frase pronta:** *"Eu tinha dificuldade em delegar. Percebi que isso me sobrecarregava e atrasava o time, então passei a combinar prazos claros e acompanhar sem controlar cada detalhe. Melhorou, e continuo atento."*
 
-## Dicas práticas para se preparar para perguntas comuns
+### "Por que você saiu (ou quer sair) do emprego anterior?"
 
-![Dicas práticas para se preparar para perguntas comuns](/img/articles/unnamed-file-3.jpg "Dicas práticas para se preparar para perguntas comuns")
+Aqui mora o maior erro: falar mal do ex-chefe ou da empresa antiga. Mesmo que você tenha razão, soa como alguém que vai falar mal da empresa nova depois. Fale do que você **busca**, não do que você **fugiu**.
 
-Preparar-se para uma entrevista significa também se antecipar às perguntas comuns que os recrutadores costumam fazer. Muitas vezes, essas perguntas têm o objetivo de entender sua experiência, habilidades e adequação para a cultura da empresa. Uma abordagem prática é pensar em **exemplos concretos** de suas experiências passadas que você pode usar para ilustrar suas respostas.
+> **Frase pronta:** *"Aprendi muito lá, mas cheguei a um ponto em que quero assumir mais responsabilidade e crescer em [área]. Vi essa chance aqui."*
 
-### Principais perguntas e como respondê-las
+### "Por que devemos contratar você?"
 
-Algumas perguntas são praticamente universais em entrevistas. Conhecê-las e ter um plano de resposta pode te colocar à frente da concorrência. Veja algumas:
+Junte as colunas da tabela do passo 3: o que a vaga precisa + o que você já entregou + por que você está interessado. Sem arrogância e sem falsa modéstia.
 
-- **Fale sobre você**: Mantenha a resposta breve, focando em suas conquistas mais relevantes e experiências que se relacionem ao cargo desejado.
-- **Quais são suas forças e fraquezas**? Seja honesto sobre suas fraquezas, mas mostre como você tem trabalhado para melhorá-las.
-- **Por que você quer trabalhar aqui?**: Utilize a pesquisa que você já fez sobre a empresa para alinhar seus valores pessoais com os da organização.
+### "Quais são suas pretensões salariais?"
 
-Além de preparar suas respostas, é crucial praticá-las em voz alta. Isso torna sua comunicação mais fluida e confiante. Converse com um amigo ou grave-se para identificar pontos a melhorar.
+Essa pergunta derruba muita gente despreparada. Antes da entrevista, pesquise a faixa de mercado para o cargo na sua região e defina o **mínimo que você aceita**. Se não se sentir pronto para dar um número, pode devolver com respeito: *"Gostaria de entender melhor o escopo da vaga e a faixa que a empresa tem em mente."*
 
-### Usar a técnica STAR
+## 5. Use o método STAR para contar histórias
 
-Uma excelente ferramenta para responder a perguntas sobre situações passadas é a técnica **STAR**, que consiste em:
+Quando a pergunta começa com *"conte uma situação em que..."*, o nervoso costuma divagar. O método **STAR** dá um trilho:
 
-1. **Situação**: Descreva a situação em que você se encontrou.
-2. **Tarefa**: Explique a tarefa que precisava ser realizada.
-3. **Ação**: Detalhe as ações que você tomou para atingir seu objetivo.
-4. **Resultado**: Finalize com o resultado de suas ações, destacando o que você aprendeu ou como isso beneficiou a equipe ou a empresa.
+1. **S**ituação: onde e quando aconteceu.
+2. **T**arefa: o que cabia a você.
+3. **A**ção: o que *você* fez, passo a passo.
+4. **R**esultado: o que mudou depois, de preferência com algo que dê pra medir.
 
-## A linguagem corporal e a atitude certa na entrevista
+Tenha **três ou quatro histórias** prontas em STAR: uma em que você resolveu um problema, uma em que errou e corrigiu, uma em que trabalhou em equipe, uma em que enfrentou pressão. Com elas você responde a quase tudo.
 
-A linguagem corporal e a atitude que você demonstra durante uma entrevista são fundamentais para causar uma boa impressão. Muitas vezes, o que você não diz verbalmente pode ser tão importante quanto suas palavras. Por isso, é essencial estar ciente da sua postura, expressões faciais e gestos, que transmitem confiança e segurança.
+## 6. Ensaie em voz alta (esse é o passo que quase ninguém faz)
 
-### Postura e presença
+Ler a resposta na cabeça engana. Falar em voz alta mostra onde você trava. Faça assim:
 
-Mantenha uma postura ereta, mas relaxada. Isso mostra que você está interessado e envolvido na conversa. Aqui estão algumas dicas sobre como sua postura pode influenciar a percepção que o recrutador tem de você:
+- Fique de pé na frente do espelho, **como na capa deste artigo**, e responda às perguntas do passo 4.
+- Grave o áudio no celular e escute. Dói um pouco, mas funciona.
+- Peça para um amigo, sua esposa ou um colega fazer o papel de entrevistador e interromper com perguntas inesperadas.
 
-- **Evite cruzar os braços:** Isso pode dar a impressão de que você está defensivo ou fechado. Mantenha as mãos visíveis e abertas.
-- **Faça contato visual:** Isso demonstra confiança. Olhe nos olhos do entrevistador, mas não o faça de maneira intensa, para evitar desconforto.
-- **Sorria naturalmente:** Um sorriso genuíno pode quebrar o gelo e criar uma conexão mais positiva.
+Duas ou três rodadas já mudam o jogo. Na terceira vez que você diz a resposta, ela sai como se fosse natural.
 
-Além da postura física, a forma como você se apresenta verbalmente é igualmente importante. Use um tom de voz claro e firme. Falar de forma hesitante pode fazer com que você seja visto como menos confiante.
+## 7. A véspera e o dia: o básico que decide
 
-### Atitudes que contam
+- **Teste o trajeto** ou o link e a câmera, se a entrevista for online. Chegue dez a quinze minutos antes, não colado no horário.
+- **Separe a roupa na véspera**: limpa, passada, adequada ao ambiente da empresa. Na dúvida, um nível acima do que as pessoas de lá usam.
+- **Leve cópias do currículo**, caneta e um caderno com suas perguntas.
+- **Durma.** Entrevista com sono atrasado é entrevista pela metade.
+- **Celular no silencioso** e guardado.
 
-Além da sua linguagem corporal, a atitude que você exala pode ser um fator decisivo na entrevista. Aqui estão algumas atitudes a cultivar:
+## 8. Linguagem corporal: o que o seu corpo está dizendo
 
-- **Seja proativo:** Mostre interesse fazendo perguntas pertinentes sobre a empresa e o cargo.
-- **Exiba entusiasmo:** Demonstre paixão pelo que você faz e pelo que a empresa representa.
-- **Mantenha a calma:** Se surgir uma questão desafiadora, respire fundo e responda de forma ponderada. Isso mostra controle emocional.
+Antes de falar, você já comunicou alguma coisa.
 
-Lembre-se de que cada aspecto, desde a sua linguagem corporal até a sua atitude, contribui para a imagem que você projeta durante a entrevista.
+- **Aperto de mão firme**, olhando nos olhos.
+- **Postura ereta e relaxada**, sem se esparramar na cadeira nem ficar rígido.
+- **Mãos à vista**, em vez de cruzar os braços ou mexer em caneta sem parar.
+- **Olhar**: encare a pessoa com naturalidade, sem fixar de forma intensa.
+- **Fale devagar.** O nervoso acelera a fala. Quando perceber, respire e baixe o ritmo.
 
-## Considerações finais sobre **como se preparar para entrevista**
+## 9. Se bater o nervosismo na hora
 
-Preparar-se para uma entrevista não é apenas sobre as respostas que você dará, mas também sobre a imagem que você projeta. A **preparação** adequada, incluindo pesquisa sobre a empresa, prática para perguntas comuns e atenção à sua linguagem corporal, pode ser a chave para o sucesso. Lembre-se de que cada detalhe conta e pode fazer a diferença em um mundo competitivo.
+Vai bater um pouco, e tudo bem. Ter um plano ajuda:
 
-Ao final, reflita sobre a jornada que você está empreendendo. Cada entrevista é uma oportunidade de crescimento e aprendizado. Não veja as dificuldades como barreiras, mas como degraus em direção ao seu propósito.
+- **Respire fundo antes de responder.** Uma pausa de três segundos parece reflexão, não fraqueza.
+- **Peça para repetir a pergunta** se não entendeu. É melhor do que responder outra coisa.
+- **Não sabe a resposta? Diga com honestidade** e mostre como você descobriria: *"Não tenho experiência direta com isso, mas já aprendi ferramentas novas rápido, e vou atrás disso desde o primeiro dia."* Inventar é o que derruba o candidato.
+- **Lembre que quem está do outro lado também é gente** e, quase sempre, está torcendo para que você seja o escolhido, porque assim ela termina o processo.
 
-**Explore mais em nosso blog** para continuar desenvolvendo suas habilidades como homem, buscando sempre a clareza, a [disciplina](https://planetahomem.com.br/disciplina-2/) e o propósito que são fundamentais em sua vida. Cuide de si, prepare-se e vá em frente com confiança.
+Se o nervosismo vem acompanhado de coração disparado, insônia e aperto que atrapalha o dia a dia, e não só antes de entrevistas, vale ler nosso texto sobre [ansiedade em homens](/ansiedade-em-homens-quando-o-cansaco-nao-e-so-fisico-3/) e, se for o caso, procurar um profissional.
 
-## FAQ – Perguntas comuns sobre como se preparar para entrevista
+## 10. Faça boas perguntas no final
 
-### Qual é a melhor maneira de me preparar para perguntas difíceis durante a entrevista?
+Quase sempre o entrevistador pergunta: *"Você tem alguma dúvida?"* A resposta **nunca** é "não". Leve duas ou três:
 
-Uma boa maneira de se preparar para perguntas difíceis é usar a técnica STAR. Isso envolve descrever a Situação, a Tarefa, a Ação que você tomou e o Resultado. Essa estrutura ajuda a organizar seus pensamentos e a comunicar suas experiências de forma clara e eficaz.
+- *"Como é um bom primeiro ano nesta função?"*
+- *"Qual é o maior desafio do time hoje?"*
+- *"Como vocês avaliam o desempenho?"*
+- *"Quais são os próximos passos do processo?"*
 
-### Como posso melhorar minha linguagem corporal antes da entrevista?
+Evite perguntar logo de cara só sobre folga, benefício e home office. Esses assuntos têm hora, e não é o primeiro minuto de conversa.
 
-Praticar frente ao espelho pode ajudar a melhorar sua linguagem corporal. Preste atenção na postura, nos gestos e na expressão facial. Mantenha uma postura ereta e relaxada, e pratique o contato visual para demonstrar confiança.
+## 11. Depois da entrevista
 
-### O que devo fazer se eu estiver nervoso na hora da entrevista?
+- **Mande um agradecimento curto** no mesmo dia ou no dia seguinte, por e-mail ou mensagem: agradeça, reforce em uma linha por que você encaixa e se coloque à disposição.
+- **Anote o que foi bem e o que foi mal**, enquanto está fresco. Cada entrevista, aprovada ou não, é um ensaio da próxima.
+- **Não leve a recusa para o lado pessoal.** Muitas vezes a decisão é sobre perfil, orçamento ou outro candidato que já estava dentro. Não é um veredito sobre o seu valor.
 
-É normal sentir nervosismo, mas algumas práticas podem ajudar. Respire fundo antes de entrar na sala e passe um momento em silêncio para centrar seus pensamentos. Lembre-se de que a entrevista é uma conversa e uma oportunidade de mostrar quem você realmente é.
+## E a fé nisso tudo?
 
-### Qual é a importância de pesquisar sobre a empresa antes da entrevista?
+Preparar-se bem **é** uma forma de fé, não o contrário. A Bíblia não promete que quem se esforça nunca será recusado, mas ensina a fazer o trabalho com seriedade e a entregar o resultado.
 
-Pesquisar sobre a empresa demonstra que você está comprometido e é proativo. Isso permite que você faça perguntas relevantes e conecte suas experiências com os valores e objetivos da empresa. Essa conexão pode impressionar o recrutador e aumentar suas chances de sucesso.
+> *"Tudo o que fizerem, façam de todo o coração, como para o Senhor, e não para os homens."* (Colossenses 3:23)
 
-### Como posso seguir atividades que ajudam na minha preparação para entrevistas?
+> *"Você já viu alguém que se destaca em sua profissão? Será a serviço de reis, e não de gente obscura."* (Provérbios 22:29)
 
-Considere se envolver em grupos de networking ou workshops que focam em desenvolvimento profissional. Além disso, práticas de oração ou meditação bíblica podem oferecer clareza e foco. Manter-se em conexão com sua fé pode proporcionar uma base sólida durante momentos de pressão.
+E para a noite anterior, quando a cabeça não desliga:
 
-### Quais hábitos posso desenvolver para aumentar minha autoconfiança?
+> *"Não andem ansiosos por coisa alguma, mas em tudo, pela oração e súplicas, e com ação de graças, apresentem seus pedidos a Deus. E a paz de Deus, que excede todo o entendimento, guardará o coração e a mente de vocês em Cristo Jesus."* (Filipenses 4:6-7)
 
-Trabalhar em suas habilidades diariamente, como comunicação e imagem pessoal, pode aumentar sua autoconfiança. Estabeleça metas pequenas e mensuráveis, e celebre suas conquistas, por mais modestas que sejam. Esteja sempre preparado, e lembre-se de que a prática leva à perfeição.
+Ore antes, prepare-se bem e entre na sala **sabendo que o seu valor não depende da resposta do recrutador**. O resultado não está inteiro nas suas mãos, mas o preparo está, e esse é o seu pedaço da responsabilidade.
 
-[Acesse Nosso Blog](https://planetahomem.com.br/ "Acesse Nosso Blog")
+Se a entrevista é só o começo e você quer ir além, veja também [como se destacar no trabalho](/como-se-destacar-no-trabalho-10-atitudes-que-fazem-a-diferenca/) e como a [inteligência emocional](/inteligencia-emocional-o-que-e-e-como-aplicar-na-sua-carreira/) pesa na carreira. E para sustentar tudo isso no dia a dia, o que realmente funciona é a [disciplina](/disciplina-2/).
+
+## Checklist rápido da entrevista
+
+- [ ] Pesquisei a empresa e anotei três pontos concretos.
+- [ ] Montei a tabela "o que a vaga pede x onde já fiz isso".
+- [ ] Escrevi e ensaiei, em voz alta, as respostas às perguntas mais comuns.
+- [ ] Tenho três ou quatro histórias prontas no método STAR.
+- [ ] Defini minha faixa salarial e o mínimo que aceito.
+- [ ] Testei trajeto ou link, separei a roupa e dormi bem.
+- [ ] Levei duas ou três perguntas para fazer no final.
+
+## FAQ: perguntas comuns sobre entrevista de emprego
+
+### Como se preparar para uma entrevista de emprego?
+
+Pesquise a empresa e a vaga, escreva e ensaie em voz alta as respostas às perguntas mais comuns, tenha histórias prontas no método STAR, cuide da véspera (roupa, trajeto, sono) e leve perguntas para fazer ao entrevistador.
+
+### O que fazer para não ficar nervoso na entrevista?
+
+Prepare-se o suficiente para que haja poucas surpresas, ensaie em voz alta, respire fundo antes de responder e fale mais devagar. Um pouco de nervosismo é normal e passa nos primeiros minutos de conversa.
+
+### O que não dizer em uma entrevista de emprego?
+
+Não fale mal do emprego ou do chefe anterior, não minta nem exagere no currículo e não abra a conversa só com perguntas sobre folga e benefícios. Evite também respostas vagas, sem nenhum exemplo concreto.
+
+### Como responder "fale sobre você"?
+
+Em até um minuto: quem você é profissionalmente hoje, a sua realização mais relevante e por que quer aquela vaga. Foque no que importa para o cargo, não na vida inteira.
+
+### Qual a melhor resposta para "qual é o seu ponto fraco"?
+
+Uma fraqueza real, que não seja essencial para a vaga, seguida do que você já faz para melhorar. Evite respostas prontas como "sou perfeccionista demais".
+
+### Como me vestir para uma entrevista?
+
+Roupa limpa, passada e adequada ao ambiente da empresa. Na dúvida, escolha um nível um pouco mais formal do que o usado pelas pessoas de lá. Para entrevista online, vale o mesmo da cintura para cima.
+
+### Devo mandar agradecimento depois da entrevista?
+
+Sim. Uma mensagem curta, no mesmo dia ou no seguinte, agradecendo o tempo e reforçando em uma linha por que você encaixa na vaga mostra educação e interesse.
+
+### Como a fé pode ajudar na hora da entrevista?
+
+A oração ajuda a acalmar a ansiedade, e a fé lembra que o seu valor não depende da aprovação de um recrutador. Isso não substitui o preparo: você faz a sua parte com excelência e confia o resultado a Deus.
