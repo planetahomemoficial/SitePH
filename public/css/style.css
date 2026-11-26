@@ -944,3 +944,7 @@ a { color: inherit; text-decoration: none; }
 .loja-det p { font-size: 14px; color: var(--ink-muted); margin: 10px 2px 0; }
 .loja-aviso { margin-top: 40px; font-size: 13px; color: var(--ink-muted); border-top: 1px solid var(--line); padding-top: 16px; }
 .loja-vazia { color: var(--ink-muted); margin-top: 24px; }
+.loja-atalhos button { font: inherit; cursor: pointer; background: transparent; border: 1px solid var(--line); border-radius: 999px; padding: 7px 16px; font-size: 14px; color: var(--ink); }
+.loja-atalhos button:hover { border-color: var(--gold-strong); color: var(--gold-strong); }
+.loja-atalhos button.ativo { background: var(--gold-strong); border-color: var(--gold-strong); color: #111; font-weight: 700; }
+.loja-secao[hidden] { display: none; }

@@ -11,7 +11,7 @@ type Produto = {
   link: string;
   detalhes?: string;
 };
-type Secao = { id: string; titulo: string; subtitulo?: string; produtos: Produto[] };
+type Secao = { id: string; titulo: string; rotulo?: string; subtitulo?: string; produtos: Produto[] };
 
 const secoes = (loja.secoes as Secao[]).filter((s) => s.produtos.length > 0);
 const siteUrl = "https://planetahomem.com.br";
@@ -39,8 +39,9 @@ const jsonLd = {
         <li>Seleção feita pela redação do Planeta Homem</li>
       </ul>
       {secoes.length > 1 && (
-        <nav class="loja-atalhos" aria-label="Seções da loja">
-          {secoes.map((s) => <a href={`#${s.id}`}>{s.titulo}</a>)}
+        <nav class="loja-atalhos" aria-label="Segmentos da loja">
+          <button type="button" class="ativo" data-seg="todos">Todos</button>
+          {secoes.map((s) => <button type="button" data-seg={s.id}>{s.rotulo ?? s.titulo}</button>)}
         </nav>
       )}
     </header>
@@ -83,4 +84,22 @@ const jsonLd = {
       disponibilidade mudam: confira o valor atual na Amazon.
     </p>
   </main>
+  <script is:inline>
+    (function () {
+      var botoes = document.querySelectorAll(".loja-atalhos button");
+      if (!botoes.length) return;
+      function mostrar(id) {
+        document.querySelectorAll(".loja-secao").forEach(function (s) { s.hidden = id !== "todos" && s.id !== id; });
+        botoes.forEach(function (b) { b.classList.toggle("ativo", b.dataset.seg === id); });
+      }
+      botoes.forEach(function (b) {
+        b.addEventListener("click", function () {
+          mostrar(b.dataset.seg);
+          history.replaceState(null, "", b.dataset.seg === "todos" ? location.pathname : "#" + b.dataset.seg);
+        });
+      });
+      var h = location.hash.slice(1);
+      if (h && document.getElementById(h)) mostrar(h);
+    })();
+  </script>
 </BaseLayout>

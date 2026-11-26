@@ -4,6 +4,7 @@
   "secoes": [
     {
       "id": "carro",
+      "rotulo": "Carro",
       "titulo": "Para o carro: tecnologia e praticidade",
       "subtitulo": "Ele dirige, você escolhe",
       "produtos": [
