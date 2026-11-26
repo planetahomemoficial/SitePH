@@ -13,7 +13,8 @@ export const SERIE = {
 };
 
 /** Endereço da categoria: a série tem página própria em /serie/, as demais ficam em /categoria/. */
-export const categoriaHref = (slug: string) => (slug === SERIE.slug ? SERIE.href : `/categoria/${slug}/`);
+export const categoriaHref = (slug: string) =>
+  slug === SERIE.slug ? SERIE.href : slug === "loja" ? "/loja/" : `/categoria/${slug}/`;
 
 export const LEGADO_ROTULO: Record<string, string> = {
   positivo: "Legado positivo",

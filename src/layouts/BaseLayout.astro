@@ -17,7 +17,7 @@ const {
 const ogImageUrl = image.startsWith("http") ? image : new URL(image, "https://planetahomem.com.br").toString();
 
 const allArticles = await getCollection("articles");
-const categorySlugsWithContent = new Set(allArticles.map((a) => a.data.categorySlug));
+const categorySlugsWithContent = new Set<string>([...allArticles.map((a) => a.data.categorySlug), "loja"]);
 const hasContent = (slug: string) => categorySlugsWithContent.has(slug);
 
 const siteUrl = "https://planetahomem.com.br";
@@ -75,6 +75,7 @@ const rawNav: NavEntry[] = [
       { label: "Acessórios", slug: "acessorios" },
     ],
   },
+  { type: "link", label: "Loja", slug: "loja" },
 ];
 
 const navEntries = rawNav

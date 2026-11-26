@@ -1,0 +1,49 @@
+{
+  "titulo": "Loja Planeta Homem",
+  "intro": "Seleção do que vale a pena para o homem de hoje. Você escolhe aqui e finaliza a compra na Amazon.",
+  "secoes": [
+    {
+      "id": "carro",
+      "titulo": "Para o carro: tecnologia e praticidade",
+      "subtitulo": "Ele dirige, você escolhe",
+      "produtos": [
+        {
+          "nome": "Adaptador CarPlay e Android Auto sem fio (dongle USB 2 em 1)",
+          "tag": "Carro · CarPlay",
+          "imagem": "/img/loja/adaptador-carplay-android-auto.webp",
+          "link": "https://link.amazon/B02qsGGJp"
+        },
+        {
+          "nome": "Carregador veicular turbo 60W, duas entradas, com cabo USB-C",
+          "tag": "Carro · Carregador",
+          "imagem": "/img/loja/carregador-veicular-60w.webp",
+          "link": "https://link.amazon/B08IiMW1y"
+        },
+        {
+          "nome": "Suporte de celular para carro, fixação no vidro ou painel, com ventosa",
+          "tag": "Carro · Suporte",
+          "imagem": "/img/loja/suporte-celular-ventosa.webp",
+          "link": "https://link.amazon/B0csTScsU"
+        },
+        {
+          "nome": "Suporte de celular giratório 360° e retrátil para espelho retrovisor",
+          "tag": "Carro · Suporte",
+          "imagem": "/img/loja/suporte-celular-retrovisor.webp",
+          "link": "https://link.amazon/B06H09jnd"
+        },
+        {
+          "nome": "Suporte de celular para saída de ar-condicionado, giratório 360° com trava",
+          "tag": "Carro · Suporte",
+          "imagem": "/img/loja/suporte-celular-ar-condicionado.webp",
+          "link": "https://link.amazon/B02bTURY6"
+        },
+        {
+          "nome": "Kit 2 controles remotos duplicadores (clone) para portão, garagem e alarme",
+          "tag": "Casa e carro · Controle",
+          "imagem": "/img/loja/controle-remoto-duplicador.webp",
+          "link": "https://link.amazon/B0bftRlYH"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+---
+import BaseLayout from "../layouts/BaseLayout.astro";
+import loja from "../data/loja.json";
+
+// Produtos ficam em src/data/loja.json (uma seção = um bloco de cartões). Ver docs/loja.md.
+type Produto = {
+  nome: string;
+  tag?: string;
+  tamanho?: string;
+  imagem: string;
+  link: string;
+  detalhes?: string;
+};
+type Secao = { id: string; titulo: string; subtitulo?: string; produtos: Produto[] };
+
+const secoes = (loja.secoes as Secao[]).filter((s) => s.produtos.length > 0);
+const siteUrl = "https://planetahomem.com.br";
+
+const jsonLd = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  name: loja.titulo,
+  url: `${siteUrl}/loja/`,
+  description: loja.intro,
+};
+---
+
+<BaseLayout
+  title={`${loja.titulo} | Planeta Homem`}
+  description={loja.intro}
+  jsonLd={[jsonLd]}
+>
+  <main class="loja">
+    <header class="loja-hero">
+      <h1>{loja.titulo}</h1>
+      <p>{loja.intro}</p>
+      <ul class="loja-pontos">
+        <li>Compra, pagamento e entrega pela Amazon</li>
+        <li>Seleção feita pela redação do Planeta Homem</li>
+      </ul>
+      {secoes.length > 1 && (
+        <nav class="loja-atalhos" aria-label="Seções da loja">
+          {secoes.map((s) => <a href={`#${s.id}`}>{s.titulo}</a>)}
+        </nav>
+      )}
+    </header>
+
+    {secoes.length === 0 && <p class="loja-vazia">Estamos montando a seleção. Volte em breve.</p>}
+
+    {secoes.map((s) => (
+      <section class="loja-secao" id={s.id}>
+        <div class="loja-secao-topo">
+          <h2>{s.titulo}</h2>
+          {s.subtitulo && <span>{s.subtitulo}</span>}
+        </div>
+        <div class="loja-grade">
+          {s.produtos.map((p) => (
+            <article class="loja-card">
+              <div class="loja-img">
+                <img src={p.imagem} alt={p.nome} loading="lazy" width="400" height="300" />
+              </div>
+              <div class="loja-corpo">
+                {p.tag && <span class="loja-tag">{p.tag}</span>}
+                {p.tamanho && <span class="loja-tamanho">{p.tamanho}</span>}
+                <h3>{p.nome}</h3>
+                <a class="loja-btn" href={p.link} target="_blank" rel="sponsored nofollow noopener">Ver na Amazon</a>
+                {p.detalhes ? (
+                  <details class="loja-det">
+                    <summary>Detalhes</summary>
+                    <p>{p.detalhes}</p>
+                  </details>
+                ) : null}
+              </div>
+            </article>
+          ))}
+        </div>
+      </section>
+    ))}
+
+    <p class="loja-aviso">
+      Os links desta página são de afiliado: se você comprar por eles, o Planeta Homem pode receber uma comissão,
+      sem custo extra para você. Como Associado da Amazon, ganhamos com compras qualificadas. Preços e
+      disponibilidade mudam: confira o valor atual na Amazon.
+    </p>
+  </main>
+</BaseLayout>
