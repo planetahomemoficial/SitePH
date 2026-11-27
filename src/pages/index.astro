@@ -41,12 +41,13 @@ const sectionsWithArticles = sections
 
 const heroSlides = sorted.slice(0, 4);
 const serieItems = await getSerieItems();
+import anuncios from "../data/anuncios.json";
 ---
 <BaseLayout title="Planeta Homem — Força, Honra, Propósito" description="Portal masculino com conteúdo sobre saúde, estilo, relacionamentos, carreira, fé e propósito para o homem moderno.">
 
   <!-- HERO (rotaciona entre os 4 artigos mais recentes) -->
   <section class="hero">
-    <div class="wrap">
+    <div class="wrap hero-grid">
       <div class="hero-banner" id="hero-carousel">
         {heroSlides.map((article, i) => (
           <div
@@ -73,6 +74,18 @@ const serieItems = await getSerieItems();
           </div>
         )}
       </div>
+      <aside class="hero-ads" aria-label="Publicidade">
+        {anuncios.slots.slice(0, 3).map((ad) =>
+          ad.imagem && ad.link ? (
+            <a class="ad-slot" href={ad.link} target="_blank" rel="sponsored nofollow noopener">
+              <img src={ad.imagem} alt={ad.alt || "Publicidade"} loading="lazy" width="440" height="440" />
+              <span class="ad-tag">Publicidade</span>
+            </a>
+          ) : (
+            <div class="ad-slot ad-vazio"><span class="ad-tag">Publicidade</span><span>Seu anúncio aqui</span></div>
+          )
+        )}
+      </aside>
     </div>
   </section>
 
